@@ -1,0 +1,11 @@
+{
+  "essay_id": "ai_007",
+  "label": "ai",
+  "topic": "community",
+  "model": "gemma3:4b",
+  "prompt": "Write a college admissions essay of approximately 500–700 words.\n\nPrompt:\nDescribe an experience involving your community or helping others and explain how it affected your perspective.\n\nRequirements:\n- Use a natural first-person voice.\n- Do not mention artificial intelligence.\n- Do not describe the writing process.\n- Do not use headings.\n- Do not add a title.\n- Return ONLY the essay.\n- Do not provide an explanation.\n- Do not provide notes.\n- Do not ask questions.\n- Do not surround the essay with quotation marks.",
+  "temperature": 0.8,
+  "seed": 1007,
+  "word_count": 624,
+  "generated_at": "2026-08-12T17:02:41.730072+00:00"
+}

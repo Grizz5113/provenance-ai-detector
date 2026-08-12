@@ -1,0 +1,14 @@
+{
+  "essay_id": "hybrid_001",
+  "label": "hybrid",
+  "source_human_essay": "human_001",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 2001,
+  "operation": "light_ai_polish",
+  "generated_at": "2026-08-12T17:42:56.547167+00:00",
+  "original_word_count": 703,
+  "hybrid_word_count": 623,
+  "edit_ratio": 0.3529411764705882,
+  "prompt": "You are editing a student's college-style essay.\n\nLightly polish the essay while preserving the student's:\n\n- meaning\n- personal experiences\n- opinions\n- facts\n- first-person voice\n- paragraph structure\n- approximate length\n\nDo NOT invent experiences or facts.\n\nDo NOT substantially rewrite the essay.\n\nMake only the kinds of changes a language model might make during\nordinary proofreading or polishing:\n\n- improve awkward phrasing\n- improve grammar\n- improve sentence flow\n- improve word choice where appropriate\n- remove obvious repetition\n\nSome original wording should remain unchanged.\n\nReturn ONLY the polished essay.\nDo not explain your changes.\nDo not add a title.\nDo not add commentary.\n\nORIGINAL ESSAY:\n\n"
+}

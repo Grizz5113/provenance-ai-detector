@@ -1,0 +1,171 @@
+essay_id,label,source,topic,generation_model,generation_prompt,human_editing,ai_intervention_level,source_group,split,author_language_background,notes
+ai_001,ai,synthetic_local_llm,challenge,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a significant challenge or failure you experienced and explain how it changed the way you approach difficult situations.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_001,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1001.
+ai_002,ai,synthetic_local_llm,challenge,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a significant challenge or failure you experienced and explain how it changed the way you approach difficult situations.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_002,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1002.
+ai_003,ai,synthetic_local_llm,academic_curiosity,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an academic subject or question that genuinely interests you and explain why you want to explore it further.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_003,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1003.
+ai_004,ai,synthetic_local_llm,academic_curiosity,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an academic subject or question that genuinely interests you and explain why you want to explore it further.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_004,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1004.
+ai_005,ai,synthetic_local_llm,leadership,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a situation in which you took responsibility or leadership and explain what you learned from the experience.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_005,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1005.
+ai_006,ai,synthetic_local_llm,leadership,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a situation in which you took responsibility or leadership and explain what you learned from the experience.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_006,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1006.
+ai_007,ai,synthetic_local_llm,community,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience involving your community or helping others and explain how it affected your perspective.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_007,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1007.
+ai_008,ai,synthetic_local_llm,community,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience involving your community or helping others and explain how it affected your perspective.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_008,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1008.
+ai_009,ai,synthetic_local_llm,personal_growth,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience that significantly changed your understanding of yourself or the world around you.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_009,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1009.
+ai_010,ai,synthetic_local_llm,personal_growth,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience that significantly changed your understanding of yourself or the world around you.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_010,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1010.
+human_001,human,PERSUADE_2.0,Distance learning,,,,none,persuade_B7468C4DD17C,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=B7468C4DD17C; grade=11; word_count=699. Licensed source: CC BY-NC-SA 4.0.
+human_002,human,PERSUADE_2.0,Does the electoral college work?,,,,none,persuade_B2C131C2B3AB,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=B2C131C2B3AB; grade=9; word_count=383. Licensed source: CC BY-NC-SA 4.0.
+human_003,human,PERSUADE_2.0,Facial action coding system,,,,none,persuade_74D0BA756BD1,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=74D0BA756BD1; grade=10; word_count=395. Licensed source: CC BY-NC-SA 4.0.
+human_004,human,PERSUADE_2.0,Summer projects,,,,none,persuade_AD97126ECA8A,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=AD97126ECA8A; grade=11; word_count=402. Licensed source: CC BY-NC-SA 4.0.
+human_005,human,PERSUADE_2.0,Driverless cars,,,,none,persuade_FEB736959AD7,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=FEB736959AD7; grade=10; word_count=756. Licensed source: CC BY-NC-SA 4.0.
+human_006,human,PERSUADE_2.0,Driverless cars,,,,none,persuade_31F25A58675C,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=31F25A58675C; grade=10; word_count=525. Licensed source: CC BY-NC-SA 4.0.
+human_007,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_36F90F86ED01,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=36F90F86ED01; grade=8; word_count=262. Licensed source: CC BY-NC-SA 4.0.
+human_008,human,PERSUADE_2.0,Car-free cities,,,,none,persuade_CF165F9553A4,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=CF165F9553A4; grade=10; word_count=628. Licensed source: CC BY-NC-SA 4.0.
+human_009,human,PERSUADE_2.0,Mandatory extracurricular activities,,,,none,persuade_4B18A3D32AA3,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=4B18A3D32AA3; grade=8; word_count=357. Licensed source: CC BY-NC-SA 4.0.
+human_010,human,PERSUADE_2.0,The Face on Mars,,,,none,persuade_4B759A5F8294,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=4B759A5F8294; grade=8; word_count=463. Licensed source: CC BY-NC-SA 4.0.

@@ -1,0 +1,11 @@
+{
+  "essay_id": "ai_003",
+  "label": "ai",
+  "topic": "academic_curiosity",
+  "model": "gemma3:4b",
+  "prompt": "Write a college admissions essay of approximately 500–700 words.\n\nPrompt:\nDescribe an academic subject or question that genuinely interests you and explain why you want to explore it further.\n\nRequirements:\n- Use a natural first-person voice.\n- Do not mention artificial intelligence.\n- Do not describe the writing process.\n- Do not use headings.\n- Do not add a title.\n- Return ONLY the essay.\n- Do not provide an explanation.\n- Do not provide notes.\n- Do not ask questions.\n- Do not surround the essay with quotation marks.",
+  "temperature": 0.8,
+  "seed": 1003,
+  "word_count": 634,
+  "generated_at": "2026-08-12T16:59:29.611729+00:00"
+}

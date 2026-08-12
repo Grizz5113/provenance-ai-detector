@@ -1,0 +1,11 @@
+{
+  "essay_id": "ai_001",
+  "label": "ai",
+  "topic": "challenge",
+  "model": "gemma3:4b",
+  "prompt": "Write a college admissions essay of approximately 500–700 words.\n\nPrompt:\nDescribe a significant challenge or failure you experienced and explain how it changed the way you approach difficult situations.\n\nRequirements:\n- Use a natural first-person voice.\n- Do not mention artificial intelligence.\n- Do not describe the writing process.\n- Do not use headings.\n- Do not add a title.\n- Return ONLY the essay.\n- Do not provide an explanation.\n- Do not provide notes.\n- Do not ask questions.\n- Do not surround the essay with quotation marks.",
+  "temperature": 0.8,
+  "seed": 1001,
+  "word_count": 623,
+  "generated_at": "2026-08-12T16:56:09.197842+00:00"
+}
