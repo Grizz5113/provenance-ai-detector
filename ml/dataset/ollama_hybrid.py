@@ -16,10 +16,9 @@ if str(PROJECT_ROOT) not in sys.path:
 from backend.app.features.text_similarity import (
     calculate_edit_ratio,
 )
-if str(PROJECT_ROOT) not in sys.path:
-    sys.path.insert(0, str(PROJECT_ROOT))
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+
 
 HUMAN_DIR = PROJECT_ROOT / "data" / "raw" / "human"
 HYBRID_DIR = PROJECT_ROOT / "data" / "raw" / "hybrid"
