@@ -107,7 +107,10 @@ def main() -> None:
                 "",
             ),
             "human_editing": "ai_polished",
-            "ai_intervention_level": "moderate",
+            "ai_intervention_level": provenance.get(
+                "ai_intervention_level",
+                "unknown",
+            ),
             "source_group": provenance.get(
                 "source_human_essay",
                 "",

@@ -6,6 +6,7 @@
   "temperature": 0.3,
   "seed": 2001,
   "operation": "light_ai_polish",
+  "ai_intervention_level": "light",
   "generated_at": "2026-08-13T09:42:21.373623+00:00",
   "original_word_count": 703,
   "hybrid_word_count": 623,

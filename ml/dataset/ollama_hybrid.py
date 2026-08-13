@@ -28,41 +28,89 @@ OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 MODEL = "gemma3:4b"
 
 
-POLISH_PROMPT = """You are editing a student's college-style essay.
+PROMPTS = {
+    "light": """You are lightly proofreading a student's college-style essay.
 
-Lightly polish the essay while preserving the student's:
-
+Preserve the student's:
 - meaning
 - personal experiences
 - opinions
 - facts
 - first-person voice
 - paragraph structure
-- approximate length
 
-Do NOT invent experiences or facts.
-
-Do NOT substantially rewrite the essay.
-
-Make only the kinds of changes a language model might make during
-ordinary proofreading or polishing:
-
+Make only small changes:
+- fix grammar
 - improve awkward phrasing
-- improve grammar
-- improve sentence flow
-- improve word choice where appropriate
+- make a few word-choice improvements
 - remove obvious repetition
 
-Some original wording should remain unchanged.
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
 
-Return ONLY the polished essay.
-Do not explain your changes.
-Do not add a title.
-Do not add commentary.
+Return ONLY the edited essay.
+Do not add a title or commentary.
 
 ORIGINAL ESSAY:
 
-"""
+""",
+
+    "moderate": """You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+""",
+
+    "heavy": """You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+""",
+}
 
 
 def generate_with_ollama(
@@ -141,6 +189,11 @@ def main() -> None:
         type=int,
         default=2001,
     )
+    parser.add_argument(
+    "--level",
+    choices=("light", "moderate", "heavy"),
+    default="light",
+)
 
     args = parser.parse_args()
 
@@ -165,7 +218,7 @@ def main() -> None:
     ).strip()
 
     prompt = (
-        POLISH_PROMPT
+        PROMPTS[args.level]
         + original_text
     )
 
@@ -198,11 +251,13 @@ def main() -> None:
         seed=args.seed,
     )
 
+    hybrid_base_id = args.essay_id.replace(
+    "human_",
+    "hybrid_",
+    )
+
     hybrid_id = (
-        args.essay_id.replace(
-            "human_",
-            "hybrid_",
-        )
+        f"{hybrid_base_id}_{args.level}"
     )
 
     output_file = (
@@ -227,7 +282,8 @@ def main() -> None:
     "model": MODEL,
     "temperature": args.temperature,
     "seed": args.seed,
-    "operation": "light_ai_polish",
+    "operation": f"{args.level}_ai_edit",
+    "ai_intervention_level": args.level,
     "generated_at": datetime.now(
         timezone.utc
     ).isoformat(),
@@ -241,7 +297,7 @@ def main() -> None:
         original_text,
         polished_text,
     ),
-    "prompt": POLISH_PROMPT,
+    "prompt": PROMPTS[args.level],
 }
 
     provenance_file.write_text(
@@ -281,7 +337,9 @@ def main() -> None:
 )
     print("Generation successful.")
     print("=" * 70)
-
+    print(
+    f"Intervention: {args.level}"
+)
 
 if __name__ == "__main__":
     main()
