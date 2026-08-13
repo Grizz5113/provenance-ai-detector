@@ -169,3 +169,38 @@ human_007,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_36F90F86ED01
 human_008,human,PERSUADE_2.0,Car-free cities,,,,none,persuade_CF165F9553A4,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=CF165F9553A4; grade=10; word_count=628. Licensed source: CC BY-NC-SA 4.0.
 human_009,human,PERSUADE_2.0,Mandatory extracurricular activities,,,,none,persuade_4B18A3D32AA3,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=4B18A3D32AA3; grade=8; word_count=357. Licensed source: CC BY-NC-SA 4.0.
 human_010,human,PERSUADE_2.0,The Face on Mars,,,,none,persuade_4B759A5F8294,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=4B759A5F8294; grade=8; word_count=463. Licensed source: CC BY-NC-SA 4.0.
+hybrid_001,hybrid,synthetic_local_llm,Distance learning,gemma3:4b,"You are editing a student's college-style essay.
+
+Lightly polish the essay while preserving the student's:
+
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+- approximate length
+
+Do NOT invent experiences or facts.
+
+Do NOT substantially rewrite the essay.
+
+Make only the kinds of changes a language model might make during
+ordinary proofreading or polishing:
+
+- improve awkward phrasing
+- improve grammar
+- improve sentence flow
+- improve word choice where appropriate
+- remove obvious repetition
+
+Some original wording should remain unchanged.
+
+Return ONLY the polished essay.
+Do not explain your changes.
+Do not add a title.
+Do not add commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,human_001,,,"{""operation"": ""light_ai_polish"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 703, ""hybrid_word_count"": 623, ""edit_ratio"": 0.3529411764705882}"
