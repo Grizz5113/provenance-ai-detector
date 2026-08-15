@@ -1,0 +1,13 @@
+Association rule mining is a technique used in data mining to discover relationships between variables in large datasets. It is used to identify patterns in data that can be used to predict the occurrence of certain events or to inform decision-making.
+
+
+
+Association rules are typically represented in the form of "if-then" statements, where the "if" part of the statement represents a set of items (or "itemsets") that co-occur in a transaction, and the "then" part represents an item (or "itemset") that is likely to be purchased with the items in the "if" part. For example, an association rule might be "if a customer buys bread and milk, then they are likely to also buy butter."
+
+
+
+To identify association rules, data mining algorithms typically use a measure of the strength of the association between the items in the "if" and "then" parts of the rule. This measure is called support, and it reflects the number of transactions in the dataset in which the items co-occur. A rule with high support is considered to be more reliable, because it occurs more frequently in the data.
+
+
+
+Association rule mining can be used in a variety of applications, including market basket analysis, fraud detection, and recommendation systems. It is a powerful tool for understanding relationships in data and can provide valuable insights that can be used to drive business decisions.

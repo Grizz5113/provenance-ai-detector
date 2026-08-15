@@ -1,0 +1,33 @@
+Numerical analysis is the study of algorithms that use numerical approximation (as opposed to symbolic manipulations) for the problems of mathematical analysis (as distinguished from discrete mathematics). Numerical analysis naturally finds application in all fields of engineering and the physical sciences, but in the 21st century also the life sciences, social sciences, medicine, business and even the arts have adopted elements of scientific computations.
+
+
+
+Numerical analysts are concerned with the development, analysis, and implementation of algorithms for solving problems in science, engineering, and other fields. These problems may be continuous or discrete and may involve equations, optimization, or data analysis. Some common areas of study in numerical analysis include:
+
+
+
+Approximation of functions: This involves finding ways to represent functions with a finite set of data, such as polynomial interpolation or spline functions.
+
+
+
+Numerical integration: This involves finding ways to approximate the definite integral of a function over some interval.
+
+
+
+Solution of differential equations: This involves finding approximate solutions to differential equations, which can be used to model a wide range of physical and biological systems.
+
+
+
+Linear and nonlinear optimization: This involves finding the minimum or maximum of a function subject to certain constraints.
+
+
+
+Numerical linear algebra: This involves finding ways to solve systems of linear equations or to find the eigenvalues and eigenvectors of matrices.
+
+
+
+Data analysis: This involves finding patterns and trends in large datasets using techniques such as regression analysis and cluster analysis.
+
+
+
+Numerical analysis is an active area of research, with many open problems and new techniques being developed constantly. It is a crucial field in scientific computing and has many practical applications in fields such as engineering, physics, and finance.

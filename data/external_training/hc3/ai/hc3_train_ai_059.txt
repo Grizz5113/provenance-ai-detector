@@ -1,0 +1,9 @@
+A computer scientist is a professional who has studied computer science, the study of the theoretical foundations of information and computation and their implementation and application in computer systems. Computer scientists work on the design, development, and analysis of software, hardware, and algorithms that enable computers to function. They also use computers to solve scientific, engineering, and business problems.
+
+
+
+Computer scientists may work in a variety of fields, including artificial intelligence, software engineering, computer systems and networks, data science, human-computer interaction, and more. They may also be involved in the development of new technologies, such as virtual reality, machine learning, and the Internet of Things.
+
+
+
+In addition to technical skills, computer scientists often have strong problem-solving, analytical, and communication skills. They may work in academia, industry, or government, and may be involved in research, development, or education.

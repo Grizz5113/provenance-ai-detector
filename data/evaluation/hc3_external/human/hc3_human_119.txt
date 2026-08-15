@@ -1,0 +1,3 @@
+Cortana is a virtual assistant developed by Microsoft that uses the Bing search engine to perform tasks such as setting reminders and answering questions for the user.
+Cortana is currently available in English, Portuguese, French, German, Italian, Spanish, Chinese, and Japanese language editions, depending on the software platform and region in which it is used.
+Microsoft began reducing the prevalence of Cortana and converting it from an assistant into different software integrations in 2019. It was split from the Windows 10 search bar in April 2019.[10] In January 2020, the Cortana mobile app was removed from certain markets,[11][12] and on March 31, 2021, the Cortana mobile app was shut down globally.[13]

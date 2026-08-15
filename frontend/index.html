@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Provenance AI Detector</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="app">
+
+    <header class="header">
+
+        <div>
+            <div class="brand">
+                <span class="brand-mark">P</span>
+                <span>Provenance</span>
+            </div>
+
+            <p class="subtitle">
+                AI · Human · Hybrid Text Provenance Detection
+            </p>
+        </div>
+
+        <div class="status">
+            <span class="status-dot"></span>
+            Detector Online
+        </div>
+
+    </header>
+
+
+    <main class="main">
+
+        <section class="card input-card">
+
+            <div class="card-header">
+
+                <div>
+                    <h1>Analyze Text</h1>
+
+                    <p>
+                        Paste an essay or upload a
+                        <strong>.txt</strong> file.
+                    </p>
+                </div>
+
+                <div class="feature-badge">
+                    33 Features
+                </div>
+
+            </div>
+
+
+            <textarea
+                id="essayText"
+                placeholder="Paste your essay here..."
+            ></textarea>
+
+
+            <div class="controls">
+
+                <label
+                    class="upload-button"
+                    for="fileInput"
+                >
+                    Upload .txt
+                </label>
+
+                <input
+                    id="fileInput"
+                    type="file"
+                    accept=".txt"
+                    hidden
+                >
+
+                <span
+                    id="fileName"
+                    class="file-name"
+                >
+                    No file selected
+                </span>
+
+                <div class="spacer"></div>
+
+                <button
+                    id="clearButton"
+                    class="secondary-button"
+                >
+                    Clear
+                </button>
+
+                <button
+                    id="analyzeButton"
+                    class="primary-button"
+                >
+                    <span id="buttonText">
+                        Analyze Text
+                    </span>
+
+                    <span
+                        id="spinner"
+                        class="spinner hidden"
+                    ></span>
+                </button>
+
+            </div>
+
+
+            <div
+                id="errorMessage"
+                class="error hidden"
+            ></div>
+
+        </section>
+
+
+        <section
+            id="resultsSection"
+            class="results hidden"
+        >
+
+            <div class="card prediction-card">
+
+                <div class="result-label">
+                    DETECTION RESULT
+                </div>
+
+                <div
+                    id="prediction"
+                    class="prediction"
+                >
+                    —
+                </div>
+
+                <div
+                    id="confidence"
+                    class="confidence"
+                >
+                    —
+                </div>
+
+                <div class="confidence-track">
+                    <div
+                        id="confidenceBar"
+                        class="confidence-fill"
+                    ></div>
+                </div>
+
+            </div>
+
+
+            <div class="card probabilities-card">
+
+                <div class="card-header">
+
+                    <div>
+                        <h2>Classification Probabilities</h2>
+
+                        <p>
+                            Model confidence across each class.
+                        </p>
+                    </div>
+
+                </div>
+
+
+                <div class="probability-list">
+
+                    <div class="probability-row">
+
+                        <div class="probability-header">
+                            <span>AI Generated</span>
+
+                            <span id="aiProbability">
+                                0.00%
+                            </span>
+                        </div>
+
+                        <div class="probability-track">
+                            <div
+                                id="aiBar"
+                                class="probability-fill ai"
+                            ></div>
+                        </div>
+
+                    </div>
+
+
+                    <div class="probability-row">
+
+                        <div class="probability-header">
+                            <span>Human Written</span>
+
+                            <span id="humanProbability">
+                                0.00%
+                            </span>
+                        </div>
+
+                        <div class="probability-track">
+                            <div
+                                id="humanBar"
+                                class="probability-fill human"
+                            ></div>
+                        </div>
+
+                    </div>
+
+
+                    <div class="probability-row">
+
+                        <div class="probability-header">
+                            <span>Hybrid</span>
+
+                            <span id="hybridProbability">
+                                0.00%
+                            </span>
+                        </div>
+
+                        <div class="probability-track">
+                            <div
+                                id="hybridBar"
+                                class="probability-fill hybrid"
+                            ></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="card evidence-card">
+
+    <div class="card-header">
+
+        <div>
+            <h2>Sentence Evidence</h2>
+
+            <p>
+                AI-like and human-like signals detected
+                across individual sentences.
+            </p>
+        </div>
+
+        <div class="evidence-legend">
+            <span>
+                <i class="legend-dot ai"></i>
+                AI-like
+            </span>
+
+            <span>
+                <i class="legend-dot human"></i>
+                Human-like
+            </span>
+
+            <span>
+                <i class="legend-dot hybrid"></i>
+                Mixed
+            </span>
+        </div>
+
+    </div>
+    
+
+</div>
+    <div
+        id="sentenceAnalysis"
+        class="sentence-analysis"
+    ></div>
+
+</div>
+            <div class="stats-grid">
+
+                <div class="card stat-card">
+                    <span class="stat-label">
+                        Features Used
+                    </span>
+
+                    <strong id="featureCount">
+                        —
+                    </strong>
+                </div>
+
+
+                <div class="card stat-card">
+                    <span class="stat-label">
+                        Characters
+                    </span>
+
+                    <strong id="characterCount">
+                        —
+                    </strong>
+                </div>
+
+
+                <div class="card stat-card">
+                    <span class="stat-label">
+                        Words
+                    </span>
+
+                    <strong id="wordCount">
+                        —
+                    </strong>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer class="footer">
+
+        <span>
+            Provenance AI Detector
+        </span>
+
+        <span>
+            FastAPI · Pythia · Machine Learning
+        </span>
+
+    </footer>
+
+</div>
+
+
+<script src="app.js"></script>
+
+</body>
+</html>

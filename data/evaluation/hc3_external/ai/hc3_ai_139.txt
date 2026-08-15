@@ -1,0 +1,13 @@
+A processor, or central processing unit (CPU), is the primary component of a computer that performs most of the processing. It is responsible for executing instructions of a computer program, and it performs this task by repeatedly fetching, decoding, and executing instructions stored in memory.
+
+
+
+The processor is a vital part of a computer system, as it determines how fast the computer can perform tasks. A faster processor can execute instructions more quickly, leading to faster performance overall. Modern processors are also designed to be energy efficient, allowing for longer battery life in laptops and other portable devices.
+
+
+
+There are many different types of processors available, ranging from low-end models found in budget laptops to high-end models used in gaming PCs and server systems. Processor performance is typically measured in terms of clock speed, which is the number of instructions a processor can execute per second, and the number of cores, which refers to the number of processing units within a processor.
+
+
+
+In addition to executing instructions, processors also perform other tasks such as controlling input/output (I/O) operations, managing memory, and handling interrupts. These tasks are managed by the processor's control unit, which fetches instructions from memory and decodes them, and the arithmetic/logic unit (ALU), which performs arithmetic and logical operations.

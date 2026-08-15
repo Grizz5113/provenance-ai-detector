@@ -1,0 +1,13 @@
+Management science is a field of study that uses statistical, mathematical, and computational techniques to analyze and optimize business operations and decision-making. It is often used in conjunction with operations research, which is a similar field that focuses on the use of mathematical modeling and analysis to improve decision-making and problem-solving in complex systems.
+
+
+
+Management science techniques are used to solve a wide range of problems in business, including resource allocation, scheduling, forecasting, and decision-making under uncertainty. These techniques can help managers to make better decisions, improve efficiency, and increase profitability. They are commonly used in industries such as manufacturing, finance, healthcare, and transportation.
+
+
+
+Management science involves the use of a wide range of tools and techniques, including linear programming, network analysis, decision analysis, and simulation. It also involves the use of computer software and other advanced technologies to analyze data and develop models for decision-making.
+
+
+
+Overall, the goal of management science is to help organizations make better decisions and improve their operations through the use of rigorous analytical methods.

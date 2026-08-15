@@ -203,7 +203,7 @@ Do not add commentary.
 
 ORIGINAL ESSAY:
 
-",ai_polished,moderate,human_001,,,"{""operation"": ""light_ai_polish"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 703, ""hybrid_word_count"": 623, ""edit_ratio"": 0.3529411764705882}"
+",ai_polished,light,persuade_B7468C4DD17C,,,"{""operation"": ""light_ai_polish"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 703, ""hybrid_word_count"": 623, ""edit_ratio"": 0.3529411764705882}"
 hybrid_002_light,hybrid,synthetic_local_llm,Does the electoral college work?,gemma3:4b,"You are lightly proofreading a student's college-style essay.
 
 Preserve the student's:
@@ -229,7 +229,7 @@ Do not add a title or commentary.
 
 ORIGINAL ESSAY:
 
-",ai_polished,moderate,human_002,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 3001, ""original_word_count"": 382, ""hybrid_word_count"": 365, ""edit_ratio"": 0.23159303882195448}"
+",ai_polished,light,persuade_B2C131C2B3AB,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 3001, ""original_word_count"": 382, ""hybrid_word_count"": 365, ""edit_ratio"": 0.23159303882195448}"
 hybrid_002_moderate,hybrid,synthetic_local_llm,Does the electoral college work?,gemma3:4b,"You are moderately editing a student's college-style essay.
 
 Preserve the student's:
@@ -257,7 +257,7 @@ Do not add a title or commentary.
 
 ORIGINAL ESSAY:
 
-",ai_polished,moderate,human_002,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.4, ""seed"": 3002, ""original_word_count"": 382, ""hybrid_word_count"": 285, ""edit_ratio"": 0.8140929535232384}"
+",ai_polished,moderate,persuade_B2C131C2B3AB,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.4, ""seed"": 3002, ""original_word_count"": 382, ""hybrid_word_count"": 285, ""edit_ratio"": 0.8140929535232384}"
 hybrid_003_light,hybrid,synthetic_local_llm,Facial action coding system,gemma3:4b,"You are lightly proofreading a student's college-style essay.
 
 Preserve the student's:
@@ -283,7 +283,7 @@ Do not add a title or commentary.
 
 ORIGINAL ESSAY:
 
-",ai_polished,moderate,human_003,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 3010, ""original_word_count"": 399, ""hybrid_word_count"": 399, ""edit_ratio"": 0.18045112781954886}"
+",ai_polished,light,persuade_74D0BA756BD1,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 3010, ""original_word_count"": 399, ""hybrid_word_count"": 399, ""edit_ratio"": 0.18045112781954886}"
 hybrid_003_moderate,hybrid,synthetic_local_llm,Facial action coding system,gemma3:4b,"You are moderately editing a student's college-style essay.
 
 Preserve the student's:
@@ -311,4 +311,557 @@ Do not add a title or commentary.
 
 ORIGINAL ESSAY:
 
-",ai_polished,moderate,human_003,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.4, ""seed"": 3011, ""original_word_count"": 399, ""hybrid_word_count"": 353, ""edit_ratio"": 0.5824468085106382}"
+",ai_polished,moderate,persuade_74D0BA756BD1,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.4, ""seed"": 3011, ""original_word_count"": 399, ""hybrid_word_count"": 353, ""edit_ratio"": 0.5824468085106382}"
+hybrid_004_heavy,hybrid,synthetic_local_llm,Summer projects,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_AD97126ECA8A,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 416, ""hybrid_word_count"": 398, ""edit_ratio"": 0.85995085995086}"
+hybrid_004_light,hybrid,synthetic_local_llm,Summer projects,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_AD97126ECA8A,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 416, ""hybrid_word_count"": 415, ""edit_ratio"": 0.18411552346570392}"
+hybrid_004_moderate,hybrid,synthetic_local_llm,Summer projects,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_AD97126ECA8A,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 416, ""hybrid_word_count"": 289, ""edit_ratio"": 0.8212765957446808}"
+hybrid_005_heavy,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_FEB736959AD7,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 761, ""hybrid_word_count"": 458, ""edit_ratio"": 0.8687448728465956}"
+hybrid_005_light,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_FEB736959AD7,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 761, ""hybrid_word_count"": 762, ""edit_ratio"": 0.050558108995403805}"
+hybrid_005_moderate,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_FEB736959AD7,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 761, ""hybrid_word_count"": 548, ""edit_ratio"": 0.5339954163483576}"
+hybrid_006_heavy,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_31F25A58675C,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 527, ""hybrid_word_count"": 440, ""edit_ratio"": 0.859358841778697}"
+hybrid_006_light,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_31F25A58675C,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 527, ""hybrid_word_count"": 494, ""edit_ratio"": 0.36141038197845254}"
+hybrid_006_moderate,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_31F25A58675C,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 527, ""hybrid_word_count"": 382, ""edit_ratio"": 0.6633663366336633}"
+hybrid_007_heavy,hybrid,synthetic_local_llm,Cell phones at school,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_36F90F86ED01,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 265, ""hybrid_word_count"": 324, ""edit_ratio"": 0.9490662139219015}"
+hybrid_007_light,hybrid,synthetic_local_llm,Cell phones at school,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_36F90F86ED01,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 265, ""hybrid_word_count"": 256, ""edit_ratio"": 0.27831094049904026}"
+hybrid_007_moderate,hybrid,synthetic_local_llm,Cell phones at school,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_36F90F86ED01,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 265, ""hybrid_word_count"": 251, ""edit_ratio"": 0.624031007751938}"
+hybrid_008_heavy,hybrid,synthetic_local_llm,Car-free cities,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_CF165F9553A4,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 587, ""hybrid_word_count"": 635, ""edit_ratio"": 0.7545008183306056}"
+hybrid_008_light,hybrid,synthetic_local_llm,Car-free cities,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_CF165F9553A4,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 587, ""hybrid_word_count"": 575, ""edit_ratio"": 0.19277108433734935}"
+hybrid_008_moderate,hybrid,synthetic_local_llm,Car-free cities,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_CF165F9553A4,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 587, ""hybrid_word_count"": 583, ""edit_ratio"": 0.3965811965811966}"
+hybrid_009_heavy,hybrid,synthetic_local_llm,Mandatory extracurricular activities,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_4B18A3D32AA3,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 363, ""hybrid_word_count"": 349, ""edit_ratio"": 0.8932584269662921}"
+hybrid_009_light,hybrid,synthetic_local_llm,Mandatory extracurricular activities,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_4B18A3D32AA3,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 363, ""hybrid_word_count"": 361, ""edit_ratio"": 0.09668508287292821}"
+hybrid_009_moderate,hybrid,synthetic_local_llm,Mandatory extracurricular activities,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_4B18A3D32AA3,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 363, ""hybrid_word_count"": 299, ""edit_ratio"": 0.9003021148036254}"
+hybrid_010_heavy,hybrid,synthetic_local_llm,The Face on Mars,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_4B759A5F8294,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 477, ""hybrid_word_count"": 475, ""edit_ratio"": 0.9390756302521008}"
+hybrid_010_light,hybrid,synthetic_local_llm,The Face on Mars,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_4B759A5F8294,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 477, ""hybrid_word_count"": 467, ""edit_ratio"": 0.11652542372881358}"
+hybrid_010_moderate,hybrid,synthetic_local_llm,The Face on Mars,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_4B759A5F8294,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 477, ""hybrid_word_count"": 430, ""edit_ratio"": 0.6868798235942668}"

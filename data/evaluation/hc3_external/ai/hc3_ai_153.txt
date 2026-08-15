@@ -1,0 +1,9 @@
+Jürgen Schmidhuber is a German computer scientist and artificial intelligence (AI) researcher who has made significant contributions to the field of machine learning, particularly in the areas of deep learning and artificial neural networks. He is also known for his work on reinforcement learning and evolutionary computation.
+
+
+
+Schmidhuber received his PhD in computer science from the Technical University of Munich in 1990, and has held academic positions at several universities in Europe and the United States. He is currently a professor at the University of Lugano in Switzerland and a researcher at the Swiss AI laboratory IDSIA.
+
+
+
+Schmidhuber is the co-founder and chief scientist of the company Nnaisense, which is focused on developing artificial intelligence solutions for a wide range of applications. He has also received numerous awards and accolades for his work, including the European Association for Artificial Intelligence's (EurAI) Distinguished Service Award and the Neural Networks Pioneer Award from the Institute of Electrical and Electronics Engineers (IEEE).

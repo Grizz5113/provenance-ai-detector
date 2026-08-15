@@ -1,0 +1,4267 @@
+essay_id,label,source,topic,generation_model,generation_prompt,human_editing,ai_intervention_level,source_group,split,author_language_background,notes
+ai_001,ai,synthetic_local_llm,challenge,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a significant challenge or failure you experienced and explain how it changed the way you approach difficult situations.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_001,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1001.
+ai_002,ai,synthetic_local_llm,challenge,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a significant challenge or failure you experienced and explain how it changed the way you approach difficult situations.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_002,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1002.
+ai_003,ai,synthetic_local_llm,academic_curiosity,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an academic subject or question that genuinely interests you and explain why you want to explore it further.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_003,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1003.
+ai_004,ai,synthetic_local_llm,academic_curiosity,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an academic subject or question that genuinely interests you and explain why you want to explore it further.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_004,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1004.
+ai_005,ai,synthetic_local_llm,leadership,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a situation in which you took responsibility or leadership and explain what you learned from the experience.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_005,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1005.
+ai_006,ai,synthetic_local_llm,leadership,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe a situation in which you took responsibility or leadership and explain what you learned from the experience.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_006,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1006.
+ai_007,ai,synthetic_local_llm,community,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience involving your community or helping others and explain how it affected your perspective.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_007,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1007.
+ai_008,ai,synthetic_local_llm,community,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience involving your community or helping others and explain how it affected your perspective.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_008,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1008.
+ai_009,ai,synthetic_local_llm,personal_growth,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience that significantly changed your understanding of yourself or the world around you.
+
+Requirements:
+- Use a natural first-person voice.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_009,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1009.
+ai_010,ai,synthetic_local_llm,personal_growth,gemma3:4b,"Write a college admissions essay of approximately 500–700 words.
+
+Prompt:
+Describe an experience that significantly changed your understanding of yourself or the world around you.
+
+Requirements:
+- Use a reflective and personal tone.
+- Do not mention artificial intelligence.
+- Do not describe the writing process.
+- Do not use headings.
+- Do not add a title.
+- Return ONLY the essay.
+- Do not provide an explanation.
+- Do not provide notes.
+- Do not ask questions.
+- Do not surround the essay with quotation marks.",,full,ai_ai_010,,not_applicable,Generated locally with Ollama. Temperature=0.8; Seed=1010.
+human_001,human,PERSUADE_2.0,Distance learning,,,,none,persuade_B7468C4DD17C,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=B7468C4DD17C; grade=11; word_count=699. Licensed source: CC BY-NC-SA 4.0.
+human_002,human,PERSUADE_2.0,Does the electoral college work?,,,,none,persuade_B2C131C2B3AB,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=B2C131C2B3AB; grade=9; word_count=383. Licensed source: CC BY-NC-SA 4.0.
+human_003,human,PERSUADE_2.0,Facial action coding system,,,,none,persuade_74D0BA756BD1,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=74D0BA756BD1; grade=10; word_count=395. Licensed source: CC BY-NC-SA 4.0.
+human_004,human,PERSUADE_2.0,Summer projects,,,,none,persuade_AD97126ECA8A,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=AD97126ECA8A; grade=11; word_count=402. Licensed source: CC BY-NC-SA 4.0.
+human_005,human,PERSUADE_2.0,Driverless cars,,,,none,persuade_FEB736959AD7,,ELL,PERSUADE 2.0 human-writing baseline. Original ID=FEB736959AD7; grade=10; word_count=756. Licensed source: CC BY-NC-SA 4.0.
+human_006,human,PERSUADE_2.0,Driverless cars,,,,none,persuade_31F25A58675C,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=31F25A58675C; grade=10; word_count=525. Licensed source: CC BY-NC-SA 4.0.
+human_007,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_36F90F86ED01,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=36F90F86ED01; grade=8; word_count=262. Licensed source: CC BY-NC-SA 4.0.
+human_008,human,PERSUADE_2.0,Car-free cities,,,,none,persuade_CF165F9553A4,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=CF165F9553A4; grade=10; word_count=628. Licensed source: CC BY-NC-SA 4.0.
+human_009,human,PERSUADE_2.0,Mandatory extracurricular activities,,,,none,persuade_4B18A3D32AA3,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=4B18A3D32AA3; grade=8; word_count=357. Licensed source: CC BY-NC-SA 4.0.
+human_010,human,PERSUADE_2.0,The Face on Mars,,,,none,persuade_4B759A5F8294,,non-ELL,PERSUADE 2.0 human-writing baseline. Original ID=4B759A5F8294; grade=8; word_count=463. Licensed source: CC BY-NC-SA 4.0.
+hybrid_001,hybrid,synthetic_local_llm,Distance learning,gemma3:4b,"You are editing a student's college-style essay.
+
+Lightly polish the essay while preserving the student's:
+
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+- approximate length
+
+Do NOT invent experiences or facts.
+
+Do NOT substantially rewrite the essay.
+
+Make only the kinds of changes a language model might make during
+ordinary proofreading or polishing:
+
+- improve awkward phrasing
+- improve grammar
+- improve sentence flow
+- improve word choice where appropriate
+- remove obvious repetition
+
+Some original wording should remain unchanged.
+
+Return ONLY the polished essay.
+Do not explain your changes.
+Do not add a title.
+Do not add commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_B7468C4DD17C,,,"{""operation"": ""light_ai_polish"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 703, ""hybrid_word_count"": 623, ""edit_ratio"": 0.3529411764705882}"
+hybrid_002_light,hybrid,synthetic_local_llm,Does the electoral college work?,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_B2C131C2B3AB,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 3001, ""original_word_count"": 382, ""hybrid_word_count"": 365, ""edit_ratio"": 0.23159303882195448}"
+hybrid_002_moderate,hybrid,synthetic_local_llm,Does the electoral college work?,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_B2C131C2B3AB,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.4, ""seed"": 3002, ""original_word_count"": 382, ""hybrid_word_count"": 285, ""edit_ratio"": 0.8140929535232384}"
+hybrid_003_light,hybrid,synthetic_local_llm,Facial action coding system,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_74D0BA756BD1,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 3010, ""original_word_count"": 399, ""hybrid_word_count"": 399, ""edit_ratio"": 0.18045112781954886}"
+hybrid_003_moderate,hybrid,synthetic_local_llm,Facial action coding system,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_74D0BA756BD1,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.4, ""seed"": 3011, ""original_word_count"": 399, ""hybrid_word_count"": 353, ""edit_ratio"": 0.5824468085106382}"
+hybrid_004_heavy,hybrid,synthetic_local_llm,Summer projects,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_AD97126ECA8A,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 416, ""hybrid_word_count"": 398, ""edit_ratio"": 0.85995085995086}"
+hybrid_004_light,hybrid,synthetic_local_llm,Summer projects,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_AD97126ECA8A,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 416, ""hybrid_word_count"": 415, ""edit_ratio"": 0.18411552346570392}"
+hybrid_004_moderate,hybrid,synthetic_local_llm,Summer projects,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_AD97126ECA8A,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 416, ""hybrid_word_count"": 289, ""edit_ratio"": 0.8212765957446808}"
+hybrid_005_heavy,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_FEB736959AD7,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 761, ""hybrid_word_count"": 458, ""edit_ratio"": 0.8687448728465956}"
+hybrid_005_light,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_FEB736959AD7,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 761, ""hybrid_word_count"": 762, ""edit_ratio"": 0.050558108995403805}"
+hybrid_005_moderate,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_FEB736959AD7,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 761, ""hybrid_word_count"": 548, ""edit_ratio"": 0.5339954163483576}"
+hybrid_006_heavy,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_31F25A58675C,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 527, ""hybrid_word_count"": 440, ""edit_ratio"": 0.859358841778697}"
+hybrid_006_light,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_31F25A58675C,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 527, ""hybrid_word_count"": 494, ""edit_ratio"": 0.36141038197845254}"
+hybrid_006_moderate,hybrid,synthetic_local_llm,Driverless cars,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_31F25A58675C,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 527, ""hybrid_word_count"": 382, ""edit_ratio"": 0.6633663366336633}"
+hybrid_007_heavy,hybrid,synthetic_local_llm,Cell phones at school,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_36F90F86ED01,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 265, ""hybrid_word_count"": 324, ""edit_ratio"": 0.9490662139219015}"
+hybrid_007_light,hybrid,synthetic_local_llm,Cell phones at school,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_36F90F86ED01,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 265, ""hybrid_word_count"": 256, ""edit_ratio"": 0.27831094049904026}"
+hybrid_007_moderate,hybrid,synthetic_local_llm,Cell phones at school,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_36F90F86ED01,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 265, ""hybrid_word_count"": 251, ""edit_ratio"": 0.624031007751938}"
+hybrid_008_heavy,hybrid,synthetic_local_llm,Car-free cities,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_CF165F9553A4,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 587, ""hybrid_word_count"": 635, ""edit_ratio"": 0.7545008183306056}"
+hybrid_008_light,hybrid,synthetic_local_llm,Car-free cities,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_CF165F9553A4,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 587, ""hybrid_word_count"": 575, ""edit_ratio"": 0.19277108433734935}"
+hybrid_008_moderate,hybrid,synthetic_local_llm,Car-free cities,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_CF165F9553A4,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 587, ""hybrid_word_count"": 583, ""edit_ratio"": 0.3965811965811966}"
+hybrid_009_heavy,hybrid,synthetic_local_llm,Mandatory extracurricular activities,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_4B18A3D32AA3,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 363, ""hybrid_word_count"": 349, ""edit_ratio"": 0.8932584269662921}"
+hybrid_009_light,hybrid,synthetic_local_llm,Mandatory extracurricular activities,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_4B18A3D32AA3,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 363, ""hybrid_word_count"": 361, ""edit_ratio"": 0.09668508287292821}"
+hybrid_009_moderate,hybrid,synthetic_local_llm,Mandatory extracurricular activities,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_4B18A3D32AA3,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 363, ""hybrid_word_count"": 299, ""edit_ratio"": 0.9003021148036254}"
+hybrid_010_heavy,hybrid,synthetic_local_llm,The Face on Mars,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,heavy,persuade_4B759A5F8294,,,"{""operation"": ""heavy_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 477, ""hybrid_word_count"": 475, ""edit_ratio"": 0.9390756302521008}"
+hybrid_010_light,hybrid,synthetic_local_llm,The Face on Mars,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,light,persuade_4B759A5F8294,,,"{""operation"": ""light_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 477, ""hybrid_word_count"": 467, ""edit_ratio"": 0.11652542372881358}"
+hybrid_010_moderate,hybrid,synthetic_local_llm,The Face on Mars,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",ai_polished,moderate,persuade_4B759A5F8294,,,"{""operation"": ""moderate_ai_edit"", ""temperature"": 0.3, ""seed"": 2001, ""original_word_count"": 477, ""hybrid_word_count"": 430, ""edit_ratio"": 0.6868798235942668}"
+hc3_train_human_001,human,HC3,reddit_eli5,,,,none,hc3_ff6ea2ffd3e4d68d,train,unknown,External HC3 augmentation; pair_id=ff6ea2ffd3e4d68d; word_count=163
+hc3_train_ai_001,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_ff6ea2ffd3e4d68d,train,unknown,External HC3 augmentation; pair_id=ff6ea2ffd3e4d68d; word_count=169
+hc3_train_human_002,human,HC3,reddit_eli5,,,,none,hc3_4c0c7e72bf8d50c8,train,unknown,External HC3 augmentation; pair_id=4c0c7e72bf8d50c8; word_count=110
+hc3_train_ai_002,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_4c0c7e72bf8d50c8,train,unknown,External HC3 augmentation; pair_id=4c0c7e72bf8d50c8; word_count=128
+hc3_train_human_003,human,HC3,reddit_eli5,,,,none,hc3_4b0b85fe3062219c,train,unknown,External HC3 augmentation; pair_id=4b0b85fe3062219c; word_count=212
+hc3_train_ai_003,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_4b0b85fe3062219c,train,unknown,External HC3 augmentation; pair_id=4b0b85fe3062219c; word_count=218
+hc3_train_human_004,human,HC3,reddit_eli5,,,,none,hc3_a75048e9a56b4e01,train,unknown,External HC3 augmentation; pair_id=a75048e9a56b4e01; word_count=147
+hc3_train_ai_004,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_a75048e9a56b4e01,train,unknown,External HC3 augmentation; pair_id=a75048e9a56b4e01; word_count=150
+hc3_train_human_005,human,HC3,reddit_eli5,,,,none,hc3_ec4d1c5ddc1d21ff,train,unknown,External HC3 augmentation; pair_id=ec4d1c5ddc1d21ff; word_count=196
+hc3_train_ai_005,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_ec4d1c5ddc1d21ff,train,unknown,External HC3 augmentation; pair_id=ec4d1c5ddc1d21ff; word_count=188
+hc3_train_human_006,human,HC3,reddit_eli5,,,,none,hc3_7cc3436d3f9058d7,train,unknown,External HC3 augmentation; pair_id=7cc3436d3f9058d7; word_count=123
+hc3_train_ai_006,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_7cc3436d3f9058d7,train,unknown,External HC3 augmentation; pair_id=7cc3436d3f9058d7; word_count=145
+hc3_train_human_007,human,HC3,reddit_eli5,,,,none,hc3_874cc93d50407770,train,unknown,External HC3 augmentation; pair_id=874cc93d50407770; word_count=159
+hc3_train_ai_007,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_874cc93d50407770,train,unknown,External HC3 augmentation; pair_id=874cc93d50407770; word_count=169
+hc3_train_human_008,human,HC3,reddit_eli5,,,,none,hc3_7024c79f0ac78d1e,train,unknown,External HC3 augmentation; pair_id=7024c79f0ac78d1e; word_count=252
+hc3_train_ai_008,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_7024c79f0ac78d1e,train,unknown,External HC3 augmentation; pair_id=7024c79f0ac78d1e; word_count=233
+hc3_train_human_009,human,HC3,reddit_eli5,,,,none,hc3_144c4eee92bf710d,train,unknown,External HC3 augmentation; pair_id=144c4eee92bf710d; word_count=100
+hc3_train_ai_009,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_144c4eee92bf710d,train,unknown,External HC3 augmentation; pair_id=144c4eee92bf710d; word_count=120
+hc3_train_human_010,human,HC3,reddit_eli5,,,,none,hc3_508a11867576afbb,train,unknown,External HC3 augmentation; pair_id=508a11867576afbb; word_count=150
+hc3_train_ai_010,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_508a11867576afbb,train,unknown,External HC3 augmentation; pair_id=508a11867576afbb; word_count=169
+hc3_train_human_011,human,HC3,reddit_eli5,,,,none,hc3_52068f3794fc2dc6,train,unknown,External HC3 augmentation; pair_id=52068f3794fc2dc6; word_count=246
+hc3_train_ai_011,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_52068f3794fc2dc6,train,unknown,External HC3 augmentation; pair_id=52068f3794fc2dc6; word_count=207
+hc3_train_human_012,human,HC3,reddit_eli5,,,,none,hc3_825931071b991594,train,unknown,External HC3 augmentation; pair_id=825931071b991594; word_count=254
+hc3_train_ai_012,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_825931071b991594,train,unknown,External HC3 augmentation; pair_id=825931071b991594; word_count=260
+hc3_train_human_013,human,HC3,reddit_eli5,,,,none,hc3_37148f83430263b4,train,unknown,External HC3 augmentation; pair_id=37148f83430263b4; word_count=249
+hc3_train_ai_013,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_37148f83430263b4,train,unknown,External HC3 augmentation; pair_id=37148f83430263b4; word_count=288
+hc3_train_human_014,human,HC3,reddit_eli5,,,,none,hc3_ef65264efbff79ac,train,unknown,External HC3 augmentation; pair_id=ef65264efbff79ac; word_count=140
+hc3_train_ai_014,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_ef65264efbff79ac,train,unknown,External HC3 augmentation; pair_id=ef65264efbff79ac; word_count=135
+hc3_train_human_015,human,HC3,reddit_eli5,,,,none,hc3_cc90e76688f3530a,train,unknown,External HC3 augmentation; pair_id=cc90e76688f3530a; word_count=202
+hc3_train_ai_015,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_cc90e76688f3530a,train,unknown,External HC3 augmentation; pair_id=cc90e76688f3530a; word_count=231
+hc3_train_human_016,human,HC3,finance,,,,none,hc3_2d789559d2390e44,train,unknown,External HC3 augmentation; pair_id=2d789559d2390e44; word_count=190
+hc3_train_ai_016,ai,HC3,finance,ChatGPT,,,full,hc3_2d789559d2390e44,train,unknown,External HC3 augmentation; pair_id=2d789559d2390e44; word_count=197
+hc3_train_human_017,human,HC3,reddit_eli5,,,,none,hc3_c17a7891b06caacd,train,unknown,External HC3 augmentation; pair_id=c17a7891b06caacd; word_count=258
+hc3_train_ai_017,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_c17a7891b06caacd,train,unknown,External HC3 augmentation; pair_id=c17a7891b06caacd; word_count=273
+hc3_train_human_018,human,HC3,reddit_eli5,,,,none,hc3_e82e88cfe5d91609,train,unknown,External HC3 augmentation; pair_id=e82e88cfe5d91609; word_count=131
+hc3_train_ai_018,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_e82e88cfe5d91609,train,unknown,External HC3 augmentation; pair_id=e82e88cfe5d91609; word_count=139
+hc3_train_human_019,human,HC3,open_qa,,,,none,hc3_e6e7ace86ef2bda2,train,unknown,External HC3 augmentation; pair_id=e6e7ace86ef2bda2; word_count=106
+hc3_train_ai_019,ai,HC3,open_qa,ChatGPT,,,full,hc3_e6e7ace86ef2bda2,train,unknown,External HC3 augmentation; pair_id=e6e7ace86ef2bda2; word_count=127
+hc3_train_human_020,human,HC3,reddit_eli5,,,,none,hc3_4f58fdc73a2db13f,train,unknown,External HC3 augmentation; pair_id=4f58fdc73a2db13f; word_count=209
+hc3_train_ai_020,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_4f58fdc73a2db13f,train,unknown,External HC3 augmentation; pair_id=4f58fdc73a2db13f; word_count=209
+hc3_train_human_021,human,HC3,reddit_eli5,,,,none,hc3_443b6a7007f59c2a,train,unknown,External HC3 augmentation; pair_id=443b6a7007f59c2a; word_count=107
+hc3_train_ai_021,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_443b6a7007f59c2a,train,unknown,External HC3 augmentation; pair_id=443b6a7007f59c2a; word_count=108
+hc3_train_human_022,human,HC3,reddit_eli5,,,,none,hc3_a32a14eb74f71266,train,unknown,External HC3 augmentation; pair_id=a32a14eb74f71266; word_count=119
+hc3_train_ai_022,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_a32a14eb74f71266,train,unknown,External HC3 augmentation; pair_id=a32a14eb74f71266; word_count=128
+hc3_train_human_023,human,HC3,reddit_eli5,,,,none,hc3_0646d1b2c9c81f27,train,unknown,External HC3 augmentation; pair_id=0646d1b2c9c81f27; word_count=195
+hc3_train_ai_023,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_0646d1b2c9c81f27,train,unknown,External HC3 augmentation; pair_id=0646d1b2c9c81f27; word_count=218
+hc3_train_human_024,human,HC3,reddit_eli5,,,,none,hc3_2b52c9828c92b69c,train,unknown,External HC3 augmentation; pair_id=2b52c9828c92b69c; word_count=205
+hc3_train_ai_024,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_2b52c9828c92b69c,train,unknown,External HC3 augmentation; pair_id=2b52c9828c92b69c; word_count=173
+hc3_train_human_025,human,HC3,reddit_eli5,,,,none,hc3_64b8f9ad541e506d,train,unknown,External HC3 augmentation; pair_id=64b8f9ad541e506d; word_count=167
+hc3_train_ai_025,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_64b8f9ad541e506d,train,unknown,External HC3 augmentation; pair_id=64b8f9ad541e506d; word_count=178
+hc3_train_human_026,human,HC3,reddit_eli5,,,,none,hc3_dbb9fe56d4957bca,train,unknown,External HC3 augmentation; pair_id=dbb9fe56d4957bca; word_count=180
+hc3_train_ai_026,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_dbb9fe56d4957bca,train,unknown,External HC3 augmentation; pair_id=dbb9fe56d4957bca; word_count=161
+hc3_train_human_027,human,HC3,reddit_eli5,,,,none,hc3_c72949ac87d55de1,train,unknown,External HC3 augmentation; pair_id=c72949ac87d55de1; word_count=135
+hc3_train_ai_027,ai,HC3,reddit_eli5,ChatGPT,,,full,hc3_c72949ac87d55de1,train,unknown,External HC3 augmentation; pair_id=c72949ac87d55de1; word_count=148
+hc3_train_human_028,human,HC3,finance,,,,none,hc3_e32e295494e4e4a4,train,unknown,External HC3 augmentation; pair_id=e32e295494e4e4a4; word_count=284
+hc3_train_ai_028,ai,HC3,finance,ChatGPT,,,full,hc3_e32e295494e4e4a4,train,unknown,External HC3 augmentation; pair_id=e32e295494e4e4a4; word_count=271
+hc3_train_human_029,human,HC3,finance,,,,none,hc3_388e63ce158075c8,train,unknown,External HC3 augmentation; pair_id=388e63ce158075c8; word_count=318
+hc3_train_ai_029,ai,HC3,finance,ChatGPT,,,full,hc3_388e63ce158075c8,train,unknown,External HC3 augmentation; pair_id=388e63ce158075c8; word_count=280
+hc3_train_human_030,human,HC3,finance,,,,none,hc3_6bb7fc459d77f5ff,train,unknown,External HC3 augmentation; pair_id=6bb7fc459d77f5ff; word_count=220
+hc3_train_ai_030,ai,HC3,finance,ChatGPT,,,full,hc3_6bb7fc459d77f5ff,train,unknown,External HC3 augmentation; pair_id=6bb7fc459d77f5ff; word_count=219
+hc3_train_human_031,human,HC3,wiki_csai,,,,none,hc3_9177f20db7ad95e8,train,unknown,External HC3 augmentation; pair_id=9177f20db7ad95e8; word_count=175
+hc3_train_ai_031,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_9177f20db7ad95e8,train,unknown,External HC3 augmentation; pair_id=9177f20db7ad95e8; word_count=190
+hc3_train_human_032,human,HC3,finance,,,,none,hc3_c6513dfa4a3c75fa,train,unknown,External HC3 augmentation; pair_id=c6513dfa4a3c75fa; word_count=183
+hc3_train_ai_032,ai,HC3,finance,ChatGPT,,,full,hc3_c6513dfa4a3c75fa,train,unknown,External HC3 augmentation; pair_id=c6513dfa4a3c75fa; word_count=163
+hc3_train_human_033,human,HC3,medicine,,,,none,hc3_5581ff08f0a2626c,train,unknown,External HC3 augmentation; pair_id=5581ff08f0a2626c; word_count=220
+hc3_train_ai_033,ai,HC3,medicine,ChatGPT,,,full,hc3_5581ff08f0a2626c,train,unknown,External HC3 augmentation; pair_id=5581ff08f0a2626c; word_count=212
+hc3_train_human_034,human,HC3,medicine,,,,none,hc3_eac85988fc149b35,train,unknown,External HC3 augmentation; pair_id=eac85988fc149b35; word_count=145
+hc3_train_ai_034,ai,HC3,medicine,ChatGPT,,,full,hc3_eac85988fc149b35,train,unknown,External HC3 augmentation; pair_id=eac85988fc149b35; word_count=122
+hc3_train_human_035,human,HC3,finance,,,,none,hc3_05efd417433c6292,train,unknown,External HC3 augmentation; pair_id=05efd417433c6292; word_count=298
+hc3_train_ai_035,ai,HC3,finance,ChatGPT,,,full,hc3_05efd417433c6292,train,unknown,External HC3 augmentation; pair_id=05efd417433c6292; word_count=280
+hc3_train_human_036,human,HC3,finance,,,,none,hc3_a3bee4cc5603a450,train,unknown,External HC3 augmentation; pair_id=a3bee4cc5603a450; word_count=275
+hc3_train_ai_036,ai,HC3,finance,ChatGPT,,,full,hc3_a3bee4cc5603a450,train,unknown,External HC3 augmentation; pair_id=a3bee4cc5603a450; word_count=288
+hc3_train_human_037,human,HC3,finance,,,,none,hc3_d6f23a2a9290c3c1,train,unknown,External HC3 augmentation; pair_id=d6f23a2a9290c3c1; word_count=353
+hc3_train_ai_037,ai,HC3,finance,ChatGPT,,,full,hc3_d6f23a2a9290c3c1,train,unknown,External HC3 augmentation; pair_id=d6f23a2a9290c3c1; word_count=304
+hc3_train_human_038,human,HC3,finance,,,,none,hc3_e6b453c7b4040a85,train,unknown,External HC3 augmentation; pair_id=e6b453c7b4040a85; word_count=202
+hc3_train_ai_038,ai,HC3,finance,ChatGPT,,,full,hc3_e6b453c7b4040a85,train,unknown,External HC3 augmentation; pair_id=e6b453c7b4040a85; word_count=217
+hc3_train_human_039,human,HC3,finance,,,,none,hc3_7972f0c917c28e6f,train,unknown,External HC3 augmentation; pair_id=7972f0c917c28e6f; word_count=183
+hc3_train_ai_039,ai,HC3,finance,ChatGPT,,,full,hc3_7972f0c917c28e6f,train,unknown,External HC3 augmentation; pair_id=7972f0c917c28e6f; word_count=184
+hc3_train_human_040,human,HC3,medicine,,,,none,hc3_aeebd44c0dc52e05,train,unknown,External HC3 augmentation; pair_id=aeebd44c0dc52e05; word_count=200
+hc3_train_ai_040,ai,HC3,medicine,ChatGPT,,,full,hc3_aeebd44c0dc52e05,train,unknown,External HC3 augmentation; pair_id=aeebd44c0dc52e05; word_count=214
+hc3_train_human_041,human,HC3,finance,,,,none,hc3_4f003c184e71a07c,train,unknown,External HC3 augmentation; pair_id=4f003c184e71a07c; word_count=203
+hc3_train_ai_041,ai,HC3,finance,ChatGPT,,,full,hc3_4f003c184e71a07c,train,unknown,External HC3 augmentation; pair_id=4f003c184e71a07c; word_count=223
+hc3_train_human_042,human,HC3,finance,,,,none,hc3_402d7f18d7de42ca,train,unknown,External HC3 augmentation; pair_id=402d7f18d7de42ca; word_count=278
+hc3_train_ai_042,ai,HC3,finance,ChatGPT,,,full,hc3_402d7f18d7de42ca,train,unknown,External HC3 augmentation; pair_id=402d7f18d7de42ca; word_count=292
+hc3_train_human_043,human,HC3,wiki_csai,,,,none,hc3_ec19efe769164def,train,unknown,External HC3 augmentation; pair_id=ec19efe769164def; word_count=274
+hc3_train_ai_043,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_ec19efe769164def,train,unknown,External HC3 augmentation; pair_id=ec19efe769164def; word_count=234
+hc3_train_human_044,human,HC3,finance,,,,none,hc3_34b3f7a3d85d29fc,train,unknown,External HC3 augmentation; pair_id=34b3f7a3d85d29fc; word_count=168
+hc3_train_ai_044,ai,HC3,finance,ChatGPT,,,full,hc3_34b3f7a3d85d29fc,train,unknown,External HC3 augmentation; pair_id=34b3f7a3d85d29fc; word_count=198
+hc3_train_human_045,human,HC3,medicine,,,,none,hc3_8bad5f7a475b6073,train,unknown,External HC3 augmentation; pair_id=8bad5f7a475b6073; word_count=152
+hc3_train_ai_045,ai,HC3,medicine,ChatGPT,,,full,hc3_8bad5f7a475b6073,train,unknown,External HC3 augmentation; pair_id=8bad5f7a475b6073; word_count=129
+hc3_train_human_046,human,HC3,finance,,,,none,hc3_ada52aa5481ddfbb,train,unknown,External HC3 augmentation; pair_id=ada52aa5481ddfbb; word_count=192
+hc3_train_ai_046,ai,HC3,finance,ChatGPT,,,full,hc3_ada52aa5481ddfbb,train,unknown,External HC3 augmentation; pair_id=ada52aa5481ddfbb; word_count=224
+hc3_train_human_047,human,HC3,finance,,,,none,hc3_c742b924960d26a7,train,unknown,External HC3 augmentation; pair_id=c742b924960d26a7; word_count=325
+hc3_train_ai_047,ai,HC3,finance,ChatGPT,,,full,hc3_c742b924960d26a7,train,unknown,External HC3 augmentation; pair_id=c742b924960d26a7; word_count=349
+hc3_train_human_048,human,HC3,medicine,,,,none,hc3_d41d97551bd400ac,train,unknown,External HC3 augmentation; pair_id=d41d97551bd400ac; word_count=196
+hc3_train_ai_048,ai,HC3,medicine,ChatGPT,,,full,hc3_d41d97551bd400ac,train,unknown,External HC3 augmentation; pair_id=d41d97551bd400ac; word_count=209
+hc3_train_human_049,human,HC3,finance,,,,none,hc3_fbc158857134ea67,train,unknown,External HC3 augmentation; pair_id=fbc158857134ea67; word_count=207
+hc3_train_ai_049,ai,HC3,finance,ChatGPT,,,full,hc3_fbc158857134ea67,train,unknown,External HC3 augmentation; pair_id=fbc158857134ea67; word_count=212
+hc3_train_human_050,human,HC3,finance,,,,none,hc3_b58413d5ab72f218,train,unknown,External HC3 augmentation; pair_id=b58413d5ab72f218; word_count=218
+hc3_train_ai_050,ai,HC3,finance,ChatGPT,,,full,hc3_b58413d5ab72f218,train,unknown,External HC3 augmentation; pair_id=b58413d5ab72f218; word_count=218
+hc3_train_human_051,human,HC3,finance,,,,none,hc3_6e1d2c4d97b78a32,train,unknown,External HC3 augmentation; pair_id=6e1d2c4d97b78a32; word_count=221
+hc3_train_ai_051,ai,HC3,finance,ChatGPT,,,full,hc3_6e1d2c4d97b78a32,train,unknown,External HC3 augmentation; pair_id=6e1d2c4d97b78a32; word_count=235
+hc3_train_human_052,human,HC3,medicine,,,,none,hc3_f1cf063bd23560ac,train,unknown,External HC3 augmentation; pair_id=f1cf063bd23560ac; word_count=123
+hc3_train_ai_052,ai,HC3,medicine,ChatGPT,,,full,hc3_f1cf063bd23560ac,train,unknown,External HC3 augmentation; pair_id=f1cf063bd23560ac; word_count=138
+hc3_train_human_053,human,HC3,finance,,,,none,hc3_c1bd13164c35b86c,train,unknown,External HC3 augmentation; pair_id=c1bd13164c35b86c; word_count=225
+hc3_train_ai_053,ai,HC3,finance,ChatGPT,,,full,hc3_c1bd13164c35b86c,train,unknown,External HC3 augmentation; pair_id=c1bd13164c35b86c; word_count=203
+hc3_train_human_054,human,HC3,finance,,,,none,hc3_3eb61250d7fbf711,train,unknown,External HC3 augmentation; pair_id=3eb61250d7fbf711; word_count=194
+hc3_train_ai_054,ai,HC3,finance,ChatGPT,,,full,hc3_3eb61250d7fbf711,train,unknown,External HC3 augmentation; pair_id=3eb61250d7fbf711; word_count=166
+hc3_train_human_055,human,HC3,medicine,,,,none,hc3_8f26c80b8a4606fb,train,unknown,External HC3 augmentation; pair_id=8f26c80b8a4606fb; word_count=129
+hc3_train_ai_055,ai,HC3,medicine,ChatGPT,,,full,hc3_8f26c80b8a4606fb,train,unknown,External HC3 augmentation; pair_id=8f26c80b8a4606fb; word_count=142
+hc3_train_human_056,human,HC3,finance,,,,none,hc3_843b9f7ee7eadca5,train,unknown,External HC3 augmentation; pair_id=843b9f7ee7eadca5; word_count=185
+hc3_train_ai_056,ai,HC3,finance,ChatGPT,,,full,hc3_843b9f7ee7eadca5,train,unknown,External HC3 augmentation; pair_id=843b9f7ee7eadca5; word_count=173
+hc3_train_human_057,human,HC3,medicine,,,,none,hc3_8e2e91d9fac8389a,train,unknown,External HC3 augmentation; pair_id=8e2e91d9fac8389a; word_count=189
+hc3_train_ai_057,ai,HC3,medicine,ChatGPT,,,full,hc3_8e2e91d9fac8389a,train,unknown,External HC3 augmentation; pair_id=8e2e91d9fac8389a; word_count=174
+hc3_train_human_058,human,HC3,finance,,,,none,hc3_d42a3021c7c1313a,train,unknown,External HC3 augmentation; pair_id=d42a3021c7c1313a; word_count=265
+hc3_train_ai_058,ai,HC3,finance,ChatGPT,,,full,hc3_d42a3021c7c1313a,train,unknown,External HC3 augmentation; pair_id=d42a3021c7c1313a; word_count=265
+hc3_train_human_059,human,HC3,wiki_csai,,,,none,hc3_108af947161e66e1,train,unknown,External HC3 augmentation; pair_id=108af947161e66e1; word_count=147
+hc3_train_ai_059,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_108af947161e66e1,train,unknown,External HC3 augmentation; pair_id=108af947161e66e1; word_count=137
+hc3_train_human_060,human,HC3,finance,,,,none,hc3_7d2857e60016e9da,train,unknown,External HC3 augmentation; pair_id=7d2857e60016e9da; word_count=227
+hc3_train_ai_060,ai,HC3,finance,ChatGPT,,,full,hc3_7d2857e60016e9da,train,unknown,External HC3 augmentation; pair_id=7d2857e60016e9da; word_count=190
+hc3_train_human_061,human,HC3,finance,,,,none,hc3_4b249c71331d8f85,train,unknown,External HC3 augmentation; pair_id=4b249c71331d8f85; word_count=287
+hc3_train_ai_061,ai,HC3,finance,ChatGPT,,,full,hc3_4b249c71331d8f85,train,unknown,External HC3 augmentation; pair_id=4b249c71331d8f85; word_count=250
+hc3_train_human_062,human,HC3,wiki_csai,,,,none,hc3_8fa3b36b823ea640,train,unknown,External HC3 augmentation; pair_id=8fa3b36b823ea640; word_count=235
+hc3_train_ai_062,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_8fa3b36b823ea640,train,unknown,External HC3 augmentation; pair_id=8fa3b36b823ea640; word_count=206
+hc3_train_human_063,human,HC3,finance,,,,none,hc3_8d03aeb4b8f651f9,train,unknown,External HC3 augmentation; pair_id=8d03aeb4b8f651f9; word_count=257
+hc3_train_ai_063,ai,HC3,finance,ChatGPT,,,full,hc3_8d03aeb4b8f651f9,train,unknown,External HC3 augmentation; pair_id=8d03aeb4b8f651f9; word_count=227
+hc3_train_human_064,human,HC3,wiki_csai,,,,none,hc3_b5028f4bb9f5825f,train,unknown,External HC3 augmentation; pair_id=b5028f4bb9f5825f; word_count=145
+hc3_train_ai_064,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_b5028f4bb9f5825f,train,unknown,External HC3 augmentation; pair_id=b5028f4bb9f5825f; word_count=126
+hc3_train_human_065,human,HC3,medicine,,,,none,hc3_57e9c8a506e4cc90,train,unknown,External HC3 augmentation; pair_id=57e9c8a506e4cc90; word_count=197
+hc3_train_ai_065,ai,HC3,medicine,ChatGPT,,,full,hc3_57e9c8a506e4cc90,train,unknown,External HC3 augmentation; pair_id=57e9c8a506e4cc90; word_count=227
+hc3_train_human_066,human,HC3,medicine,,,,none,hc3_3a8ffff5906f0246,train,unknown,External HC3 augmentation; pair_id=3a8ffff5906f0246; word_count=134
+hc3_train_ai_066,ai,HC3,medicine,ChatGPT,,,full,hc3_3a8ffff5906f0246,train,unknown,External HC3 augmentation; pair_id=3a8ffff5906f0246; word_count=160
+hc3_train_human_067,human,HC3,wiki_csai,,,,none,hc3_a46d2ddad663c4b7,train,unknown,External HC3 augmentation; pair_id=a46d2ddad663c4b7; word_count=138
+hc3_train_ai_067,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_a46d2ddad663c4b7,train,unknown,External HC3 augmentation; pair_id=a46d2ddad663c4b7; word_count=150
+hc3_train_human_068,human,HC3,medicine,,,,none,hc3_6fecc69e5f3de40a,train,unknown,External HC3 augmentation; pair_id=6fecc69e5f3de40a; word_count=155
+hc3_train_ai_068,ai,HC3,medicine,ChatGPT,,,full,hc3_6fecc69e5f3de40a,train,unknown,External HC3 augmentation; pair_id=6fecc69e5f3de40a; word_count=140
+hc3_train_human_069,human,HC3,wiki_csai,,,,none,hc3_7a377992505b02ab,train,unknown,External HC3 augmentation; pair_id=7a377992505b02ab; word_count=239
+hc3_train_ai_069,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_7a377992505b02ab,train,unknown,External HC3 augmentation; pair_id=7a377992505b02ab; word_count=236
+hc3_train_human_070,human,HC3,medicine,,,,none,hc3_a872319758d8b612,train,unknown,External HC3 augmentation; pair_id=a872319758d8b612; word_count=190
+hc3_train_ai_070,ai,HC3,medicine,ChatGPT,,,full,hc3_a872319758d8b612,train,unknown,External HC3 augmentation; pair_id=a872319758d8b612; word_count=163
+hc3_train_human_071,human,HC3,wiki_csai,,,,none,hc3_4f71607473eea600,train,unknown,External HC3 augmentation; pair_id=4f71607473eea600; word_count=160
+hc3_train_ai_071,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_4f71607473eea600,train,unknown,External HC3 augmentation; pair_id=4f71607473eea600; word_count=176
+hc3_train_human_072,human,HC3,wiki_csai,,,,none,hc3_692c2b625c24a6dd,train,unknown,External HC3 augmentation; pair_id=692c2b625c24a6dd; word_count=209
+hc3_train_ai_072,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_692c2b625c24a6dd,train,unknown,External HC3 augmentation; pair_id=692c2b625c24a6dd; word_count=191
+hc3_train_human_073,human,HC3,medicine,,,,none,hc3_832c7ad7342f517e,train,unknown,External HC3 augmentation; pair_id=832c7ad7342f517e; word_count=145
+hc3_train_ai_073,ai,HC3,medicine,ChatGPT,,,full,hc3_832c7ad7342f517e,train,unknown,External HC3 augmentation; pair_id=832c7ad7342f517e; word_count=174
+hc3_train_human_074,human,HC3,wiki_csai,,,,none,hc3_f758b98853118bbf,train,unknown,External HC3 augmentation; pair_id=f758b98853118bbf; word_count=152
+hc3_train_ai_074,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_f758b98853118bbf,train,unknown,External HC3 augmentation; pair_id=f758b98853118bbf; word_count=170
+hc3_train_human_075,human,HC3,medicine,,,,none,hc3_4fd6e5fdd8c9543f,train,unknown,External HC3 augmentation; pair_id=4fd6e5fdd8c9543f; word_count=184
+hc3_train_ai_075,ai,HC3,medicine,ChatGPT,,,full,hc3_4fd6e5fdd8c9543f,train,unknown,External HC3 augmentation; pair_id=4fd6e5fdd8c9543f; word_count=196
+hc3_train_human_076,human,HC3,wiki_csai,,,,none,hc3_d8d1f98f7b7b643e,train,unknown,External HC3 augmentation; pair_id=d8d1f98f7b7b643e; word_count=275
+hc3_train_ai_076,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_d8d1f98f7b7b643e,train,unknown,External HC3 augmentation; pair_id=d8d1f98f7b7b643e; word_count=261
+hc3_train_human_077,human,HC3,medicine,,,,none,hc3_cb6a2efe7ea9f2af,train,unknown,External HC3 augmentation; pair_id=cb6a2efe7ea9f2af; word_count=192
+hc3_train_ai_077,ai,HC3,medicine,ChatGPT,,,full,hc3_cb6a2efe7ea9f2af,train,unknown,External HC3 augmentation; pair_id=cb6a2efe7ea9f2af; word_count=187
+hc3_train_human_078,human,HC3,medicine,,,,none,hc3_619091d8489c7f81,train,unknown,External HC3 augmentation; pair_id=619091d8489c7f81; word_count=134
+hc3_train_ai_078,ai,HC3,medicine,ChatGPT,,,full,hc3_619091d8489c7f81,train,unknown,External HC3 augmentation; pair_id=619091d8489c7f81; word_count=135
+hc3_train_human_079,human,HC3,wiki_csai,,,,none,hc3_5badaf7c6ff186b4,train,unknown,External HC3 augmentation; pair_id=5badaf7c6ff186b4; word_count=204
+hc3_train_ai_079,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_5badaf7c6ff186b4,train,unknown,External HC3 augmentation; pair_id=5badaf7c6ff186b4; word_count=171
+hc3_train_human_080,human,HC3,wiki_csai,,,,none,hc3_86784ea72a4e0df3,train,unknown,External HC3 augmentation; pair_id=86784ea72a4e0df3; word_count=185
+hc3_train_ai_080,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_86784ea72a4e0df3,train,unknown,External HC3 augmentation; pair_id=86784ea72a4e0df3; word_count=181
+hc3_train_human_081,human,HC3,wiki_csai,,,,none,hc3_f83be79c87df30fa,train,unknown,External HC3 augmentation; pair_id=f83be79c87df30fa; word_count=152
+hc3_train_ai_081,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_f83be79c87df30fa,train,unknown,External HC3 augmentation; pair_id=f83be79c87df30fa; word_count=182
+hc3_train_human_082,human,HC3,wiki_csai,,,,none,hc3_eba17e6960610fa2,train,unknown,External HC3 augmentation; pair_id=eba17e6960610fa2; word_count=179
+hc3_train_ai_082,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_eba17e6960610fa2,train,unknown,External HC3 augmentation; pair_id=eba17e6960610fa2; word_count=189
+hc3_train_human_083,human,HC3,wiki_csai,,,,none,hc3_c1e252d97993258a,train,unknown,External HC3 augmentation; pair_id=c1e252d97993258a; word_count=141
+hc3_train_ai_083,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_c1e252d97993258a,train,unknown,External HC3 augmentation; pair_id=c1e252d97993258a; word_count=168
+hc3_train_human_084,human,HC3,wiki_csai,,,,none,hc3_d5d65baa7a4ff682,train,unknown,External HC3 augmentation; pair_id=d5d65baa7a4ff682; word_count=176
+hc3_train_ai_084,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_d5d65baa7a4ff682,train,unknown,External HC3 augmentation; pair_id=d5d65baa7a4ff682; word_count=203
+hc3_train_human_085,human,HC3,medicine,,,,none,hc3_fafdba10d1f4675f,train,unknown,External HC3 augmentation; pair_id=fafdba10d1f4675f; word_count=141
+hc3_train_ai_085,ai,HC3,medicine,ChatGPT,,,full,hc3_fafdba10d1f4675f,train,unknown,External HC3 augmentation; pair_id=fafdba10d1f4675f; word_count=137
+hc3_train_human_086,human,HC3,wiki_csai,,,,none,hc3_fb6186203b7d1ef9,train,unknown,External HC3 augmentation; pair_id=fb6186203b7d1ef9; word_count=117
+hc3_train_ai_086,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_fb6186203b7d1ef9,train,unknown,External HC3 augmentation; pair_id=fb6186203b7d1ef9; word_count=111
+hc3_train_human_087,human,HC3,wiki_csai,,,,none,hc3_df2a2699ecb3bde5,train,unknown,External HC3 augmentation; pair_id=df2a2699ecb3bde5; word_count=155
+hc3_train_ai_087,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_df2a2699ecb3bde5,train,unknown,External HC3 augmentation; pair_id=df2a2699ecb3bde5; word_count=159
+hc3_train_human_088,human,HC3,wiki_csai,,,,none,hc3_024fa8dfedd03ec3,train,unknown,External HC3 augmentation; pair_id=024fa8dfedd03ec3; word_count=210
+hc3_train_ai_088,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_024fa8dfedd03ec3,train,unknown,External HC3 augmentation; pair_id=024fa8dfedd03ec3; word_count=186
+hc3_train_human_089,human,HC3,wiki_csai,,,,none,hc3_8bfb967a92c935c8,train,unknown,External HC3 augmentation; pair_id=8bfb967a92c935c8; word_count=173
+hc3_train_ai_089,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_8bfb967a92c935c8,train,unknown,External HC3 augmentation; pair_id=8bfb967a92c935c8; word_count=187
+hc3_train_human_090,human,HC3,wiki_csai,,,,none,hc3_9b07342013906ae4,train,unknown,External HC3 augmentation; pair_id=9b07342013906ae4; word_count=182
+hc3_train_ai_090,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_9b07342013906ae4,train,unknown,External HC3 augmentation; pair_id=9b07342013906ae4; word_count=200
+hc3_train_human_091,human,HC3,wiki_csai,,,,none,hc3_36f739b3a53e0ae3,train,unknown,External HC3 augmentation; pair_id=36f739b3a53e0ae3; word_count=225
+hc3_train_ai_091,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_36f739b3a53e0ae3,train,unknown,External HC3 augmentation; pair_id=36f739b3a53e0ae3; word_count=194
+hc3_train_human_092,human,HC3,wiki_csai,,,,none,hc3_e2a23ef3b24dc549,train,unknown,External HC3 augmentation; pair_id=e2a23ef3b24dc549; word_count=172
+hc3_train_ai_092,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_e2a23ef3b24dc549,train,unknown,External HC3 augmentation; pair_id=e2a23ef3b24dc549; word_count=186
+hc3_train_human_093,human,HC3,medicine,,,,none,hc3_68f974a9a937d9fc,train,unknown,External HC3 augmentation; pair_id=68f974a9a937d9fc; word_count=169
+hc3_train_ai_093,ai,HC3,medicine,ChatGPT,,,full,hc3_68f974a9a937d9fc,train,unknown,External HC3 augmentation; pair_id=68f974a9a937d9fc; word_count=172
+hc3_train_human_094,human,HC3,medicine,,,,none,hc3_8457d8aa989d0dd2,train,unknown,External HC3 augmentation; pair_id=8457d8aa989d0dd2; word_count=171
+hc3_train_ai_094,ai,HC3,medicine,ChatGPT,,,full,hc3_8457d8aa989d0dd2,train,unknown,External HC3 augmentation; pair_id=8457d8aa989d0dd2; word_count=194
+hc3_train_human_095,human,HC3,wiki_csai,,,,none,hc3_9171f33f37a0a0ea,train,unknown,External HC3 augmentation; pair_id=9171f33f37a0a0ea; word_count=216
+hc3_train_ai_095,ai,HC3,wiki_csai,ChatGPT,,,full,hc3_9171f33f37a0a0ea,train,unknown,External HC3 augmentation; pair_id=9171f33f37a0a0ea; word_count=195
+hc3_train_human_096,human,HC3,medicine,,,,none,hc3_0c5d945233c61161,train,unknown,External HC3 augmentation; pair_id=0c5d945233c61161; word_count=216
+hc3_train_ai_096,ai,HC3,medicine,ChatGPT,,,full,hc3_0c5d945233c61161,train,unknown,External HC3 augmentation; pair_id=0c5d945233c61161; word_count=193
+hc3_train_human_097,human,HC3,medicine,,,,none,hc3_2a3f28294e868657,train,unknown,External HC3 augmentation; pair_id=2a3f28294e868657; word_count=164
+hc3_train_ai_097,ai,HC3,medicine,ChatGPT,,,full,hc3_2a3f28294e868657,train,unknown,External HC3 augmentation; pair_id=2a3f28294e868657; word_count=137
+hc3_train_human_098,human,HC3,medicine,,,,none,hc3_49ba1ded29fe7bbe,train,unknown,External HC3 augmentation; pair_id=49ba1ded29fe7bbe; word_count=119
+hc3_train_ai_098,ai,HC3,medicine,ChatGPT,,,full,hc3_49ba1ded29fe7bbe,train,unknown,External HC3 augmentation; pair_id=49ba1ded29fe7bbe; word_count=123
+hc3_train_human_099,human,HC3,medicine,,,,none,hc3_cd0c3897932c9e60,train,unknown,External HC3 augmentation; pair_id=cd0c3897932c9e60; word_count=250
+hc3_train_ai_099,ai,HC3,medicine,ChatGPT,,,full,hc3_cd0c3897932c9e60,train,unknown,External HC3 augmentation; pair_id=cd0c3897932c9e60; word_count=283
+hc3_train_human_100,human,HC3,medicine,,,,none,hc3_9dbc3bd1f20f25eb,train,unknown,External HC3 augmentation; pair_id=9dbc3bd1f20f25eb; word_count=149
+hc3_train_ai_100,ai,HC3,medicine,ChatGPT,,,full,hc3_9dbc3bd1f20f25eb,train,unknown,External HC3 augmentation; pair_id=9dbc3bd1f20f25eb; word_count=156
+persuade_train_human_001,human,PERSUADE_2.0,Facial action coding system,,,,none,persuade_new_D2A7CA1EEFC5,train,unknown,External PERSUADE human training sample; persuade_id=D2A7CA1EEFC5
+persuade_train_human_002,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_new_70D5347F02B0,train,unknown,External PERSUADE human training sample; persuade_id=70D5347F02B0
+persuade_train_human_003,human,PERSUADE_2.0,Does the electoral college work?,,,,none,persuade_new_7CCF17D975F4,train,unknown,External PERSUADE human training sample; persuade_id=7CCF17D975F4
+persuade_train_human_004,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_new_07CC30055043,train,unknown,External PERSUADE human training sample; persuade_id=07CC30055043
+persuade_train_human_005,human,PERSUADE_2.0,Grades for extracurricular activities,,,,none,persuade_new_9D2D6842C1B3,train,unknown,External PERSUADE human training sample; persuade_id=9D2D6842C1B3
+persuade_train_human_006,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_new_38EE63B226BA,train,unknown,External PERSUADE human training sample; persuade_id=38EE63B226BA
+persuade_train_human_007,human,PERSUADE_2.0,Cell phones at school,,,,none,persuade_new_EEAC91E3A3E5,train,unknown,External PERSUADE human training sample; persuade_id=EEAC91E3A3E5
+persuade_train_human_008,human,PERSUADE_2.0,Does the electoral college work?,,,,none,persuade_new_A9E9593131B3,train,unknown,External PERSUADE human training sample; persuade_id=A9E9593131B3
+persuade_train_human_009,human,PERSUADE_2.0,Grades for extracurricular activities,,,,none,persuade_new_09035E72A3AE,train,unknown,External PERSUADE human training sample; persuade_id=09035E72A3AE
+persuade_train_human_010,human,PERSUADE_2.0,Seeking multiple opinions,,,,none,persuade_new_5EB9ECE0BE68,train,unknown,External PERSUADE human training sample; persuade_id=5EB9ECE0BE68
+persuade_train_human_011,human,PERSUADE_2.0,Driverless cars,,,,none,persuade_new_9248E0BEFDD2,train,unknown,External PERSUADE human training sample; persuade_id=9248E0BEFDD2
+persuade_train_human_012,human,PERSUADE_2.0,Exploring Venus,,,,none,persuade_new_EC1DD5C739B9,train,unknown,External PERSUADE human training sample; persuade_id=EC1DD5C739B9
+persuade_train_human_013,human,PERSUADE_2.0,Seeking multiple opinions,,,,none,persuade_new_C862AF5812E2,train,unknown,External PERSUADE human training sample; persuade_id=C862AF5812E2
+persuade_train_human_014,human,PERSUADE_2.0,"""A Cowboy Who Rode the Waves""",,,,none,persuade_new_2B03097B591C,train,unknown,External PERSUADE human training sample; persuade_id=2B03097B591C
+persuade_train_human_015,human,PERSUADE_2.0,Community service,,,,none,persuade_new_0B6B5E779566,train,unknown,External PERSUADE human training sample; persuade_id=0B6B5E779566
+persuade_train_human_016,human,PERSUADE_2.0,Exploring Venus,,,,none,persuade_new_688E61008A5D,train,unknown,External PERSUADE human training sample; persuade_id=688E61008A5D
+persuade_train_human_017,human,PERSUADE_2.0,Does the electoral college work?,,,,none,persuade_new_5CB2FF0429F3,train,unknown,External PERSUADE human training sample; persuade_id=5CB2FF0429F3
+persuade_train_human_018,human,PERSUADE_2.0,Facial action coding system,,,,none,persuade_new_866DBF36BC7C,train,unknown,External PERSUADE human training sample; persuade_id=866DBF36BC7C
+persuade_train_human_019,human,PERSUADE_2.0,"""A Cowboy Who Rode the Waves""",,,,none,persuade_new_C61B895C4CD9,train,unknown,External PERSUADE human training sample; persuade_id=C61B895C4CD9
+persuade_train_human_020,human,PERSUADE_2.0,Exploring Venus,,,,none,persuade_new_B8C06B8720EA,train,unknown,External PERSUADE human training sample; persuade_id=B8C06B8720EA
+persuade_train_human_021,human,PERSUADE_2.0,Mandatory extracurricular activities,,,,none,persuade_new_9DEE651A7219,train,unknown,External PERSUADE human training sample; persuade_id=9DEE651A7219
+persuade_train_human_022,human,PERSUADE_2.0,"""A Cowboy Who Rode the Waves""",,,,none,persuade_new_BE0CFB4B3712,train,unknown,External PERSUADE human training sample; persuade_id=BE0CFB4B3712
+persuade_train_human_023,human,PERSUADE_2.0,Does the electoral college work?,,,,none,persuade_new_5FC8F4A12ED4,train,unknown,External PERSUADE human training sample; persuade_id=5FC8F4A12ED4
+persuade_train_human_024,human,PERSUADE_2.0,Grades for extracurricular activities,,,,none,persuade_new_3206079FDA69,train,unknown,External PERSUADE human training sample; persuade_id=3206079FDA69
+persuade_train_human_025,human,PERSUADE_2.0,Distance learning,,,,none,persuade_new_86887AB8BE18,train,unknown,External PERSUADE human training sample; persuade_id=86887AB8BE18
+persuade_train_human_026,human,PERSUADE_2.0,The Face on Mars,,,,none,persuade_new_3B563576DE31,train,unknown,External PERSUADE human training sample; persuade_id=3B563576DE31
+persuade_train_human_027,human,PERSUADE_2.0,Summer projects,,,,none,persuade_new_0DB1509D2CDB,train,unknown,External PERSUADE human training sample; persuade_id=0DB1509D2CDB
+persuade_train_human_028,human,PERSUADE_2.0,Exploring Venus,,,,none,persuade_new_CCD30CE1E903,train,unknown,External PERSUADE human training sample; persuade_id=CCD30CE1E903
+persuade_train_human_029,human,PERSUADE_2.0,"""A Cowboy Who Rode the Waves""",,,,none,persuade_new_167F809A194B,train,unknown,External PERSUADE human training sample; persuade_id=167F809A194B
+persuade_train_human_030,human,PERSUADE_2.0,Phones and driving,,,,none,persuade_new_7742D58270C9,train,unknown,External PERSUADE human training sample; persuade_id=7742D58270C9
+persuade_train_human_031,human,PERSUADE_2.0,Community service,,,,none,persuade_new_7EEE11CF0775,train,unknown,External PERSUADE human training sample; persuade_id=7EEE11CF0775
+persuade_train_human_032,human,PERSUADE_2.0,Community service,,,,none,persuade_new_9E2CFCC604DA,train,unknown,External PERSUADE human training sample; persuade_id=9E2CFCC604DA
+persuade_train_human_033,human,PERSUADE_2.0,Community service,,,,none,persuade_new_E55967D94E2C,train,unknown,External PERSUADE human training sample; persuade_id=E55967D94E2C
+persuade_train_human_034,human,PERSUADE_2.0,Car-free cities,,,,none,persuade_new_68FB76B3413E,train,unknown,External PERSUADE human training sample; persuade_id=68FB76B3413E
+persuade_train_human_035,human,PERSUADE_2.0,Mandatory extracurricular activities,,,,none,persuade_new_D7148D8FC7F7,train,unknown,External PERSUADE human training sample; persuade_id=D7148D8FC7F7
+persuade_train_human_036,human,PERSUADE_2.0,Facial action coding system,,,,none,persuade_new_2B7C977B8420,train,unknown,External PERSUADE human training sample; persuade_id=2B7C977B8420
+persuade_train_human_037,human,PERSUADE_2.0,Distance learning,,,,none,persuade_new_6F9101D079EC,train,unknown,External PERSUADE human training sample; persuade_id=6F9101D079EC
+persuade_train_human_038,human,PERSUADE_2.0,Car-free cities,,,,none,persuade_new_B9EEE56F7338,train,unknown,External PERSUADE human training sample; persuade_id=B9EEE56F7338
+persuade_train_human_039,human,PERSUADE_2.0,Distance learning,,,,none,persuade_new_F666D2588232,train,unknown,External PERSUADE human training sample; persuade_id=F666D2588232
+persuade_train_human_040,human,PERSUADE_2.0,Grades for extracurricular activities,,,,none,persuade_new_8CE968DB99AB,train,unknown,External PERSUADE human training sample; persuade_id=8CE968DB99AB
+persuade_train_hybrid_001_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_001,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_001; edit_ratio=0.8067349926793558
+persuade_train_hybrid_001_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_001,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_001; edit_ratio=0.03457814661134162
+persuade_train_hybrid_001_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_001,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_001; edit_ratio=0.6515373352855052
+persuade_train_hybrid_002_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_002,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_002; edit_ratio=0.9060052219321149
+persuade_train_hybrid_002_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_002,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_002; edit_ratio=0.4470284237726099
+persuade_train_hybrid_002_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_002,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_002; edit_ratio=0.7388888888888889
+persuade_train_hybrid_003_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_003,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_003; edit_ratio=0.8619201725997843
+persuade_train_hybrid_003_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_003,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_003; edit_ratio=0.07311827956989247
+persuade_train_hybrid_003_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_003,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_003; edit_ratio=0.06157112526539277
+persuade_train_hybrid_004_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_004,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_004; edit_ratio=0.9159663865546218
+persuade_train_hybrid_004_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_004,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_004; edit_ratio=0.10169491525423724
+persuade_train_hybrid_004_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_004,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_004; edit_ratio=0.4775160599571735
+persuade_train_hybrid_005_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_005,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_005; edit_ratio=0.913232104121475
+persuade_train_hybrid_005_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_005,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_005; edit_ratio=0.5883905013192612
+persuade_train_hybrid_005_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_005,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_005; edit_ratio=0.7121212121212122
+persuade_train_hybrid_006_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_006,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_006; edit_ratio=0.7196765498652291
+persuade_train_hybrid_006_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_006,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_006; edit_ratio=0.14366197183098595
+persuade_train_hybrid_006_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_006,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_006; edit_ratio=0.4772036474164134
+persuade_train_hybrid_007_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_007,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_007; edit_ratio=0.9487179487179487
+persuade_train_hybrid_007_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_007,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_007; edit_ratio=0.1853720050441362
+persuade_train_hybrid_007_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_007,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_007; edit_ratio=0.699867197875166
+persuade_train_hybrid_008_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_008,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_008; edit_ratio=0.8164705882352941
+persuade_train_hybrid_008_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_008,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_008; edit_ratio=0.18438177874186557
+persuade_train_hybrid_008_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_008,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_008; edit_ratio=0.420935412026726
+persuade_train_hybrid_009_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_009,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_009; edit_ratio=0.940552016985138
+persuade_train_hybrid_009_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_009,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_009; edit_ratio=0.3215189873417722
+persuade_train_hybrid_009_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_009,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_009; edit_ratio=0.6950904392764858
+persuade_train_hybrid_010_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_010,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_010; edit_ratio=0.9622641509433962
+persuade_train_hybrid_010_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_010,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_010; edit_ratio=0.17280453257790374
+persuade_train_hybrid_010_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_010,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_010; edit_ratio=0.7196531791907514
+persuade_train_hybrid_011_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_011,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_011; edit_ratio=0.9723865877712031
+persuade_train_hybrid_011_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_011,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_011; edit_ratio=0.16775599128540308
+persuade_train_hybrid_011_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_011,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_011; edit_ratio=0.890818858560794
+persuade_train_hybrid_012_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_012,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_012; edit_ratio=0.8381742738589212
+persuade_train_hybrid_012_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_012,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_012; edit_ratio=0.25400457665903886
+persuade_train_hybrid_012_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_012,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_012; edit_ratio=0.3761061946902655
+persuade_train_hybrid_013_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_013,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_013; edit_ratio=0.9385796545105566
+persuade_train_hybrid_013_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_013,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_013; edit_ratio=0.2768361581920904
+persuade_train_hybrid_013_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_013,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_013; edit_ratio=0.7826961770623743
+persuade_train_hybrid_014_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_014,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_014; edit_ratio=0.9576271186440678
+persuade_train_hybrid_014_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_014,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_014; edit_ratio=0.14004914004914004
+persuade_train_hybrid_014_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_014,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_014; edit_ratio=0.3701923076923077
+persuade_train_hybrid_015_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_015,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_015; edit_ratio=0.916243654822335
+persuade_train_hybrid_015_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_015,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_015; edit_ratio=0.1565495207667732
+persuade_train_hybrid_015_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_015,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_015; edit_ratio=0.9060913705583756
+persuade_train_hybrid_016_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_016,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_016; edit_ratio=0.9284294234592445
+persuade_train_hybrid_016_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_016,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_016; edit_ratio=0.11967545638945232
+persuade_train_hybrid_016_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_016,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_016; edit_ratio=0.6926406926406927
+persuade_train_hybrid_017_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_017,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_017; edit_ratio=0.8432432432432433
+persuade_train_hybrid_017_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_017,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_017; edit_ratio=0.13864306784660763
+persuade_train_hybrid_017_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_017,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_017; edit_ratio=0.296969696969697
+persuade_train_hybrid_018_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_018,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_018; edit_ratio=0.8448023426061493
+persuade_train_hybrid_018_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_018,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_018; edit_ratio=0.23258869908015767
+persuade_train_hybrid_018_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_018,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_018; edit_ratio=0.8777292576419214
+persuade_train_hybrid_019_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_019,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_019; edit_ratio=0.8968058968058968
+persuade_train_hybrid_019_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_019,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_019; edit_ratio=0.1749095295536791
+persuade_train_hybrid_019_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_019,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_019; edit_ratio=0.5495049504950495
+persuade_train_hybrid_020_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_020,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_020; edit_ratio=0.8674188998589563
+persuade_train_hybrid_020_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_020,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_020; edit_ratio=0.11653116531165308
+persuade_train_hybrid_020_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_020,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_020; edit_ratio=0.55895865237366
+persuade_train_hybrid_021_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_021,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_021; edit_ratio=0.9648562300319489
+persuade_train_hybrid_021_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_021,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_021; edit_ratio=0.05845181674565558
+persuade_train_hybrid_021_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_021,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_021; edit_ratio=0.6744186046511628
+persuade_train_hybrid_022_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_022,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_022; edit_ratio=0.8528896672504378
+persuade_train_hybrid_022_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_022,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_022; edit_ratio=0.08366533864541836
+persuade_train_hybrid_022_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_022,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_022; edit_ratio=0.19672131147540983
+persuade_train_hybrid_023_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_023,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_023; edit_ratio=0.8877338877338877
+persuade_train_hybrid_023_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_023,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_023; edit_ratio=0.2465753424657534
+persuade_train_hybrid_023_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_023,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_023; edit_ratio=0.31506849315068497
+persuade_train_hybrid_024_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_024,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_024; edit_ratio=0.9326683291770573
+persuade_train_hybrid_024_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_024,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_024; edit_ratio=0.2963430012610341
+persuade_train_hybrid_024_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_024,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_024; edit_ratio=0.7975708502024291
+persuade_train_hybrid_025_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_025,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_025; edit_ratio=0.9139784946236559
+persuade_train_hybrid_025_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_025,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_025; edit_ratio=0.09859154929577463
+persuade_train_hybrid_025_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_025,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_025; edit_ratio=0.6941896024464832
+persuade_train_hybrid_026_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_026,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_026; edit_ratio=0.949685534591195
+persuade_train_hybrid_026_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_026,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_026; edit_ratio=0.2853828306264501
+persuade_train_hybrid_026_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_026,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_026; edit_ratio=0.7623261694058154
+persuade_train_hybrid_027_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_027,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_027; edit_ratio=0.9443155452436195
+persuade_train_hybrid_027_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_027,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_027; edit_ratio=0.1180400890868597
+persuade_train_hybrid_027_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_027,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_027; edit_ratio=0.48815165876777256
+persuade_train_hybrid_028_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_028,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_028; edit_ratio=0.8783783783783784
+persuade_train_hybrid_028_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_028,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_028; edit_ratio=0.06651108518086346
+persuade_train_hybrid_028_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_028,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_028; edit_ratio=0.5762273901808785
+persuade_train_hybrid_029_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_029,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_029; edit_ratio=0.8881431767337807
+persuade_train_hybrid_029_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_029,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_029; edit_ratio=0.1724137931034483
+persuade_train_hybrid_029_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_029,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_029; edit_ratio=0.2216748768472906
+persuade_train_hybrid_030_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_030,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_030; edit_ratio=0.9702233250620348
+persuade_train_hybrid_030_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_030,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_030; edit_ratio=0.14778325123152714
+persuade_train_hybrid_030_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_030,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_030; edit_ratio=0.4798994974874372
+persuade_train_hybrid_031_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_031,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_031; edit_ratio=0.9097472924187726
+persuade_train_hybrid_031_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_031,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_031; edit_ratio=0.32727272727272727
+persuade_train_hybrid_031_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_031,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_031; edit_ratio=0.8181818181818181
+persuade_train_hybrid_032_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_032,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_032; edit_ratio=0.9627749576988156
+persuade_train_hybrid_032_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_032,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_032; edit_ratio=0.22297297297297303
+persuade_train_hybrid_032_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_032,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_032; edit_ratio=0.7325800376647834
+persuade_train_hybrid_033_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_033,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_033; edit_ratio=0.9096573208722741
+persuade_train_hybrid_033_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_033,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_033; edit_ratio=0.29670329670329665
+persuade_train_hybrid_033_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_033,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_033; edit_ratio=0.8387096774193549
+persuade_train_hybrid_034_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_034,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_034; edit_ratio=0.8675078864353312
+persuade_train_hybrid_034_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_034,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_034; edit_ratio=0.5275080906148868
+persuade_train_hybrid_034_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_034,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_034; edit_ratio=0.7095709570957096
+persuade_train_hybrid_035_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_035,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_035; edit_ratio=0.9010152284263959
+persuade_train_hybrid_035_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_035,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_035; edit_ratio=0.10493046776232617
+persuade_train_hybrid_035_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_035,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_035; edit_ratio=0.7715877437325905
+persuade_train_hybrid_036_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_036,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_036; edit_ratio=0.8659966499162479
+persuade_train_hybrid_036_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_036,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_036; edit_ratio=0.17369308600337263
+persuade_train_hybrid_036_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_036,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_036; edit_ratio=0.6851520572450804
+persuade_train_hybrid_037_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_037,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_037; edit_ratio=0.9542857142857143
+persuade_train_hybrid_037_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_037,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_037; edit_ratio=0.022164276401564487
+persuade_train_hybrid_037_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_037,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_037; edit_ratio=0.49710982658959535
+persuade_train_hybrid_038_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_038,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_038; edit_ratio=0.8695652173913043
+persuade_train_hybrid_038_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_038,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_038; edit_ratio=0.16094986807387868
+persuade_train_hybrid_038_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_038,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_038; edit_ratio=0.7194029850746269
+persuade_train_hybrid_039_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_039,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_039; edit_ratio=0.8436944937833037
+persuade_train_hybrid_039_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_039,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_039; edit_ratio=0.17448405253283306
+persuade_train_hybrid_039_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_039,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_039; edit_ratio=0.68944099378882
+persuade_train_hybrid_040_heavy,hybrid,PERSUADE_2.0,,gemma3:4b,"You are substantially rewriting a student's college-style essay.
+
+Preserve:
+- the student's factual experiences
+- the core meaning
+- opinions
+- first-person perspective
+
+Rewrite much of the wording and sentence structure.
+Improve:
+- clarity
+- flow
+- vocabulary
+- grammar
+- conciseness
+
+Do NOT invent new experiences or facts.
+Do NOT change the underlying story.
+
+Return ONLY the rewritten essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,heavy,persuade_hybrid_persuade_train_human_040,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_040; edit_ratio=0.8017492711370262
+persuade_train_hybrid_040_light,hybrid,PERSUADE_2.0,,gemma3:4b,"You are lightly proofreading a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person voice
+- paragraph structure
+
+Make only small changes:
+- fix grammar
+- improve awkward phrasing
+- make a few word-choice improvements
+- remove obvious repetition
+
+Keep most of the original wording unchanged.
+Do NOT invent facts or experiences.
+Do NOT substantially rewrite the essay.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,light,persuade_hybrid_persuade_train_human_040,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_040; edit_ratio=0.3003533568904594
+persuade_train_hybrid_040_moderate,hybrid,PERSUADE_2.0,,gemma3:4b,"You are moderately editing a student's college-style essay.
+
+Preserve the student's:
+- meaning
+- personal experiences
+- opinions
+- facts
+- first-person perspective
+
+Rewrite some sentences to improve:
+- grammar
+- clarity
+- sentence flow
+- word choice
+- conciseness
+
+Preserve the overall story, facts, and paragraph structure.
+Do NOT invent experiences or facts.
+Do NOT completely rewrite the essay.
+
+A substantial portion of the original wording should remain.
+
+Return ONLY the edited essay.
+Do not add a title or commentary.
+
+ORIGINAL ESSAY:
+
+",,moderate,persuade_hybrid_persuade_train_human_040,train,unknown,PERSUADE human essay AI-edited with local LLM; source_human=persuade_train_human_040; edit_ratio=0.7133105802047781

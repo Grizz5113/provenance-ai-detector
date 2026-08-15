@@ -1,0 +1,13 @@
+In computer science, pattern matching is the act of checking a given sequence of tokens for the presence of the constituents of some pattern. In contrast to pattern recognition, the pattern being sought is specifically defined.
+
+
+
+Pattern matching is a technique used in many different fields, including computer science, data mining, and machine learning. It is often used to extract information from data, to validate data, or to search for specific patterns in data.
+
+
+
+There are many different algorithms and techniques for pattern matching, and the choice of which to use depends on the specific requirements of the problem at hand. Some common techniques include regular expressions, finite automata, and string searching algorithms such as Boyer-Moore and Knuth-Morris-Pratt.
+
+
+
+In some programming languages, pattern matching is also a feature that allows a programmer to specify patterns to which some data should conform and to decompose the data according to those patterns. This can be used to extract information from the data, or to perform different actions depending on the specific shape of the data.

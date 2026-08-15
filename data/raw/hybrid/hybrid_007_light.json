@@ -1,0 +1,15 @@
+{
+  "essay_id": "hybrid_007_light",
+  "label": "hybrid",
+  "source_human_essay": "human_007",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 2001,
+  "operation": "light_ai_edit",
+  "ai_intervention_level": "light",
+  "generated_at": "2026-08-13T18:18:34.778218+00:00",
+  "original_word_count": 265,
+  "hybrid_word_count": 256,
+  "edit_ratio": 0.27831094049904026,
+  "prompt": "You are lightly proofreading a student's college-style essay.\n\nPreserve the student's:\n- meaning\n- personal experiences\n- opinions\n- facts\n- first-person voice\n- paragraph structure\n\nMake only small changes:\n- fix grammar\n- improve awkward phrasing\n- make a few word-choice improvements\n- remove obvious repetition\n\nKeep most of the original wording unchanged.\nDo NOT invent facts or experiences.\nDo NOT substantially rewrite the essay.\n\nReturn ONLY the edited essay.\nDo not add a title or commentary.\n\nORIGINAL ESSAY:\n\n"
+}

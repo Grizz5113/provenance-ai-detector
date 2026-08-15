@@ -1,0 +1,114 @@
+In logic, a predicate is a symbol which represents a property or a relation. For instance, in the first order formula 
+
+
+
+P
+(
+a
+)
+
+
+{\displaystyle P(a)}
+
+, the symbol 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is a predicate which applies to the individual constant 
+
+
+
+a
+
+
+{\displaystyle a}
+
+. Similarly, in the formula 
+
+
+
+R
+(
+a
+,
+b
+)
+
+
+{\displaystyle R(a,b)}
+
+, 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ is a predicate which applies to the individual constants 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+. 
+In the semantics of logic, predicates are interpreted as relations. For instance, in a standard semantics for first-order logic, the formula 
+
+
+
+R
+(
+a
+,
+b
+)
+
+
+{\displaystyle R(a,b)}
+
+ would be true on an interpretation if the entities denoted by 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ stand in the relation denoted by 
+
+
+
+R
+
+
+{\displaystyle R}
+
+. Since predicates are non-logical symbols, they can denote different relations depending on the interpretation used to interpret them. While first-order logic only includes predicates which apply to individual constants, other logics may allow predicates which apply to other predicates.

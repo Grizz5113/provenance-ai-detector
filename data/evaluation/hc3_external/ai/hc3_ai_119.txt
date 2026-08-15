@@ -1,0 +1,5 @@
+Cortana is a virtual assistant developed by Microsoft for its Windows operating system. It was first introduced in 2014 as a feature of the Windows Phone 8.1 operating system, and later became available for Windows 10 and other platforms.
+
+
+
+Cortana is designed to assist users with a variety of tasks, such as setting reminders, answering questions, providing recommendations, and performing web searches. It can also be used to control other devices and apps, such as playing music or setting the thermostat. To use Cortana, users can either type or speak their requests to the assistant, which responds with relevant information or performs the requested action. Cortana uses artificial intelligence and machine learning to understand and interpret user requests, and can adapt to a user's preferences and habits over time.

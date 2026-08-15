@@ -1,0 +1,13 @@
+A Markov random field (MRF) is a type of probabilistic graphical model that represents a set of random variables and their statistical dependencies through a graph. In an MRF, each variable is associated with a node in the graph, and the presence or absence of an edge between two nodes indicates the presence or absence of a statistical dependency between the corresponding variables.
+
+
+
+The probabilistic graphical model associated with an MRF is called a Markov network. Markov random fields are used to model complex systems in which the variables are related to one another through a set of statistical dependencies, and they have found applications in many areas, including image processing, natural language processing, and machine learning.
+
+
+
+One of the key properties of MRFs is the Markov property, which states that the probability distribution of a random variable is determined solely by its neighbors in the graph. This property allows MRFs to capture the dependencies between variables in a compact and efficient way.
+
+
+
+Markov random fields can be defined in terms of their energy function, which is a mathematical expression that describes the energy or cost associated with a particular configuration of the variables. The probability distribution of the variables in an MRF can be obtained from the energy function using the principle of maximum entropy, which states that the most likely configuration of the variables is the one that maximizes the entropy of the system.

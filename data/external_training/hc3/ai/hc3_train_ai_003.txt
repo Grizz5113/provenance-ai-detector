@@ -1,0 +1,7 @@
+Counting cards is a strategy that some people use while playing card games, especially blackjack, to try to increase their chances of winning. It involves keeping track of which cards have been played and which ones are still left in the deck. This can give a person an idea of what cards are more likely to be drawn next.
+
+To do this, a person needs to be good at math because they have to keep track of a lot of numbers in their head. They also need to be able to do calculations quickly and accurately.
+
+To understand how counting cards works, let's use an example. Imagine that you are playing a game of blackjack and the dealer has dealt out a few cards. You can see all of the cards that have been played, but you don't know what the next card will be. If you know that there are a lot of high cards left in the deck, you might be more likely to win because you have a better chance of getting a good hand. On the other hand, if there are mostly low cards left in the deck, you might decide to stop playing because you are less likely to win.
+
+I hope this helps! Let me know if you have any other questions.

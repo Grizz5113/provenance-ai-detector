@@ -1,0 +1,13 @@
+Information theory is a branch of mathematics that deals with the study of the processing, transmission, and storage of information. It was developed by Claude Shannon in the 1940s as a way to formalize the concept of information and to quantify the amount of information that can be transmitted over a given channel.
+
+
+
+The central idea of information theory is that information can be quantified as a measure of the uncertainty of an event. For example, if you know that a coin is fair, then the outcome of a coin flip is equally likely to be heads or tails, and the amount of information you receive from the outcome of the coin flip is low. On the other hand, if you don't know whether the coin is fair or not, then the outcome of the coin flip is more uncertain, and the amount of information you receive from the outcome is higher.
+
+
+
+In information theory, the concept of entropy is used to quantify the amount of uncertainty or randomness in a system. The more uncertainty or randomness there is, the higher the entropy. Information theory also introduces the concept of mutual information, which is a measure of the amount of information that one random variable contains about another.
+
+
+
+Information theory has applications in a wide range of fields, including computer science, engineering, and statistics. It is used to design efficient communication systems, to compress data, to analyze statistical data, and to study the limits of computation.

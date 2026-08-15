@@ -1,0 +1,5 @@
+Ctrl + Alt + Del is a combination of keys that you can press on your keyboard to bring up a screen that allows you to log into your Windows account. This combination of keys was added to make it harder for someone to gain access to your account if you leave your computer unattended.
+
+Imagine that you are at a library and you need to use a computer to do some research. If you simply had to click a button on the login screen to access the computer, someone could easily come along and use your account without your permission. However, if you have to press a combination of keys, it is less likely that someone will be able to gain access to your account without your knowledge.
+
+Ctrl + Alt + Del also allows you to do other things, such as change your password, shut down your computer, or open the Task Manager. These options can be helpful if you need to troubleshoot a problem with your computer or if you need to end a program that is not responding.

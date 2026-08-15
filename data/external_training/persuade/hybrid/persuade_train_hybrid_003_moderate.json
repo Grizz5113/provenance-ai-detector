@@ -1,0 +1,15 @@
+{
+  "essay_id": "persuade_train_hybrid_003_moderate",
+  "label": "hybrid",
+  "source_human_essay": "persuade_train_human_003",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 3003,
+  "operation": "moderate_ai_edit",
+  "ai_intervention_level": "moderate",
+  "generated_at": "2026-08-15T10:41:32.506880+00:00",
+  "original_word_count": 473,
+  "hybrid_word_count": 469,
+  "edit_ratio": 0.06157112526539277,
+  "prompt": "You are moderately editing a student's college-style essay.\n\nPreserve the student's:\n- meaning\n- personal experiences\n- opinions\n- facts\n- first-person perspective\n\nRewrite some sentences to improve:\n- grammar\n- clarity\n- sentence flow\n- word choice\n- conciseness\n\nPreserve the overall story, facts, and paragraph structure.\nDo NOT invent experiences or facts.\nDo NOT completely rewrite the essay.\n\nA substantial portion of the original wording should remain.\n\nReturn ONLY the edited essay.\nDo not add a title or commentary.\n\nORIGINAL ESSAY:\n\n"
+}

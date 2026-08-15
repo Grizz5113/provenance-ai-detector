@@ -1,0 +1,13 @@
+Multivariate statistics is a branch of statistics that deals with the study of multiple variables and their relationships. In contrast to univariate statistics, which focuses on analyzing one variable at a time, multivariate statistics enables you to analyze the relationships among multiple variables simultaneously.
+
+
+
+Multivariate statistics can be used to perform a variety of statistical analyses, including regression, classification, and cluster analysis. It is commonly used in fields such as psychology, economics, and marketing, where there are often multiple variables of interest.
+
+
+
+Examples of multivariate statistical techniques include principal component analysis, multivariate regression, and multivariate ANOVA. These techniques can be used to understand complex relationships among multiple variables and to make predictions about future outcomes based on those relationships.
+
+
+
+Overall, multivariate statistics is a powerful tool for understanding and analyzing data when there are multiple variables of interest.

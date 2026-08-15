@@ -1,0 +1,15 @@
+{
+  "essay_id": "hybrid_008_heavy",
+  "label": "hybrid",
+  "source_human_essay": "human_008",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 2001,
+  "operation": "heavy_ai_edit",
+  "ai_intervention_level": "heavy",
+  "generated_at": "2026-08-13T18:21:22.442478+00:00",
+  "original_word_count": 587,
+  "hybrid_word_count": 635,
+  "edit_ratio": 0.7545008183306056,
+  "prompt": "You are substantially rewriting a student's college-style essay.\n\nPreserve:\n- the student's factual experiences\n- the core meaning\n- opinions\n- first-person perspective\n\nRewrite much of the wording and sentence structure.\nImprove:\n- clarity\n- flow\n- vocabulary\n- grammar\n- conciseness\n\nDo NOT invent new experiences or facts.\nDo NOT change the underlying story.\n\nReturn ONLY the rewritten essay.\nDo not add a title or commentary.\n\nORIGINAL ESSAY:\n\n"
+}

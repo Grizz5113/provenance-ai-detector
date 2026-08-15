@@ -1,0 +1,9 @@
+Human computation is a field of study that focuses on the design of systems that combine the strengths of humans and computers to solve problems that are difficult or impossible for either to solve individually. These systems often rely on the collective intelligence and diverse skills of large numbers of people, who work together to solve problems or perform tasks that are too complex or time-consuming for a single person or a computer to complete.
+
+
+
+Examples of human computation include crowdsourcing platforms, such as Amazon Mechanical Turk, which allow companies to outsource small tasks or jobs to a large, distributed workforce. Other examples include online games or other interactive systems that rely on human players to solve problems or perform tasks, such as finding solutions to puzzles, identifying objects in images, or transcribing speech or text.
+
+
+
+Human computation can be used to solve a wide range of problems, including tasks related to data analysis, natural language processing, image or video recognition, and other areas where human judgment or intuition is valuable. It can also be used to facilitate collaboration and communication among large groups of people, or to harness the collective knowledge and expertise of a community to solve problems or make decisions.

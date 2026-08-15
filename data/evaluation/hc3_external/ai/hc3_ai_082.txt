@@ -1,0 +1,13 @@
+The theory of computation is a branch of theoretical computer science that deals with the study of algorithms, their computational complexity, and the power of different computational models. It aims to understand what can be computed and how efficiently it can be done.
+
+
+
+In general, computation refers to the process of performing operations on input data to produce output. The theory of computation studies the properties of these operations and the resources (such as time and space) required to perform them. It also investigates the limitations of different computational models, including the extent to which they can solve certain types of problems.
+
+
+
+There are several different computational models that are studied in the theory of computation, including the Turing machine, the lambda calculus, and the boolean circuit model. These models provide a framework for understanding the behavior of algorithms and the complexity of different problems.
+
+
+
+The theory of computation has many applications in computer science, including the design and analysis of algorithms, the study of computer hardware and software, and the development of programming languages. It is an important field that helps researchers and practitioners to understand the limits of computation and to design efficient algorithms for solving a wide range of problems.

@@ -1,0 +1,9 @@
+The universal approximation theorem is a result in the theory of artificial neural networks that states that a feedforward neural network with a single hidden layer containing a finite number of neurons can approximate continuous functions on compact subsets of R^n, under mild assumptions on the activation function. The theorem was first proved by George Cybenko in 1989, although similar results were proven earlier by Kolmogorov, Arbib, and others.
+
+
+
+The theorem states that, given any continuous function f(x) defined on a compact subset D of R^n, and given any positive real number ε, there exists a feedforward neural network with a single hidden layer and a finite number of neurons, such that the network can approximate f(x) to within ε on the subset D. The number of neurons required in the hidden layer depends on the complexity of the function f(x) and the desired level of approximation ε.
+
+
+
+The universal approximation theorem is significant because it shows that feedforward neural networks with a single hidden layer have the potential to approximate a wide range of functions, and can therefore be used for a wide range of tasks. However, it is important to note that the theorem only guarantees the existence of a neural network that can approximate a given function, and does not provide a method for constructing such a network.

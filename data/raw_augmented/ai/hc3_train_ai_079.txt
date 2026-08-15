@@ -1,0 +1,13 @@
+Pruning is a technique used to reduce the size of a machine learning model by removing unnecessary parameters or connections. The goal of pruning is to improve the efficiency and speed of the model without significantly affecting its accuracy.
+
+
+
+There are several ways to prune a machine learning model, and the most common method is to remove weights that have a small magnitude. This can be done during the training process by setting a threshold for the weight values and eliminating those that fall below it. Another method is to remove connections between neurons that have a small impact on the model's output.
+
+
+
+Pruning can be used to reduce the complexity of a model, which can make it easier to interpret and understand. It can also help to prevent overfitting, which is when a model performs well on the training data but poorly on new, unseen data.
+
+
+
+In summary, pruning is a technique used to reduce the size and complexity of a machine learning model while maintaining or improving its performance.

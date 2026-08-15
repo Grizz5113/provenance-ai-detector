@@ -1,0 +1,4 @@
+essay_id,label,topic,source,source_group,ai_intervention_level,notes
+human_eval_001,human,personal reflection,controlled_external,external_human_001,none,smoke test
+ai_eval_001,ai,education,controlled_external,external_ai_001,full,smoke test
+hybrid_eval_001,hybrid,education,controlled_external,external_hybrid_001,moderate,smoke test

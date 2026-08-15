@@ -1,0 +1,9 @@
+Total Information Awareness (TIA) was a research program run by the Defense Advanced Research Projects Agency (DARPA), a U.S. government agency responsible for the development of new technology for use by the military. The program was established in 2002 in response to the terrorist attacks of September 11, 2001, with the goal of developing technologies to detect and prevent future terrorist attacks by collecting and analyzing vast amounts of data from a variety of sources.
+
+
+
+The TIA program focused on developing technologies for analyzing and mining data from sources such as the internet, financial transactions, and electronic communications in order to identify patterns and trends that might indicate the planning of a terrorist attack. The program also sought to develop technologies for "information fusion," or the integration and analysis of data from multiple sources.
+
+
+
+The TIA program was controversial, as it raised concerns about privacy and civil liberties. Critics argued that the program could be used to collect and analyze data on ordinary citizens, potentially leading to the abuse of power and the erosion of privacy. In response to these concerns, Congress defunded the TIA program in 2003 and it was eventually shut down.

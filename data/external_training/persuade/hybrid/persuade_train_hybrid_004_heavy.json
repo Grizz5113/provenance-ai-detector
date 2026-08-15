@@ -1,0 +1,15 @@
+{
+  "essay_id": "persuade_train_hybrid_004_heavy",
+  "label": "hybrid",
+  "source_human_essay": "persuade_train_human_004",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 3004,
+  "operation": "heavy_ai_edit",
+  "ai_intervention_level": "heavy",
+  "generated_at": "2026-08-15T10:43:16.528056+00:00",
+  "original_word_count": 240,
+  "hybrid_word_count": 236,
+  "edit_ratio": 0.9159663865546218,
+  "prompt": "You are substantially rewriting a student's college-style essay.\n\nPreserve:\n- the student's factual experiences\n- the core meaning\n- opinions\n- first-person perspective\n\nRewrite much of the wording and sentence structure.\nImprove:\n- clarity\n- flow\n- vocabulary\n- grammar\n- conciseness\n\nDo NOT invent new experiences or facts.\nDo NOT change the underlying story.\n\nReturn ONLY the rewritten essay.\nDo not add a title or commentary.\n\nORIGINAL ESSAY:\n\n"
+}

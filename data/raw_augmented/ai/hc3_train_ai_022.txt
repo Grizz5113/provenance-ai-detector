@@ -1,0 +1,5 @@
+The high-pitched ringing noise that you can hear when turning on an old TV is called "static." Static is a type of interference that can occur in electronic devices, like TVs, when there is a problem with the signal being received or when the device is not functioning properly.
+
+The noise you hear when you turn off the TV is called a "turn-off transient." This is a brief burst of electrical noise that is produced when the power supply to the TV is suddenly turned off. The turn-off transient is usually a brief, high-pitched noise that lasts for a fraction of a second.
+
+In both cases, the noises are caused by electrical signals being disrupted or disrupted in some way, which can result in strange noises being produced.

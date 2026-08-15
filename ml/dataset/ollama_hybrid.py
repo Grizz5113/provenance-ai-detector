@@ -20,8 +20,18 @@ from backend.app.features.text_similarity import (
 
 
 
-HUMAN_DIR = PROJECT_ROOT / "data" / "raw" / "human"
-HYBRID_DIR = PROJECT_ROOT / "data" / "raw" / "hybrid"
+DEFAULT_HUMAN_DIR = (
+    PROJECT_ROOT
+    / "data"
+    / "raw"
+    / "human"
+)
+DEFAULT_HYBRID_DIR = (
+    PROJECT_ROOT
+    / "data"
+    / "raw"
+    / "hybrid"
+)
 
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 
@@ -177,7 +187,16 @@ def main() -> None:
         "--essay-id",
         required=True,
     )
-
+    parser.add_argument(
+    "--human-dir",
+    type=Path,
+    default=DEFAULT_HUMAN_DIR,
+    )
+    parser.add_argument(
+    "--output-dir",
+    type=Path,
+    default=DEFAULT_HYBRID_DIR,
+    )   
     parser.add_argument(
         "--temperature",
         type=float,
@@ -197,18 +216,27 @@ def main() -> None:
 
     args = parser.parse_args()
 
+    human_dir = args.human_dir
+
+    if not human_dir.is_absolute():
+        human_dir = PROJECT_ROOT / human_dir
+
     source_file = (
-        HUMAN_DIR
+        human_dir
         / f"{args.essay_id}.txt"
     )
-
     if not source_file.exists():
         raise FileNotFoundError(
             f"Human essay not found: "
             f"{source_file}"
         )
 
-    HYBRID_DIR.mkdir(
+    hybrid_dir = args.output_dir
+
+    if not hybrid_dir.is_absolute():
+        hybrid_dir = PROJECT_ROOT / hybrid_dir
+
+    hybrid_dir.mkdir(
         parents=True,
         exist_ok=True,
     )
@@ -261,12 +289,12 @@ def main() -> None:
     )
 
     output_file = (
-        HYBRID_DIR
+        hybrid_dir
         / f"{hybrid_id}.txt"
     )
 
     provenance_file = (
-        HYBRID_DIR
+        hybrid_dir
         / f"{hybrid_id}.json"
     )
 

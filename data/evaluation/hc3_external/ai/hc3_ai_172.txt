@@ -1,0 +1,13 @@
+A Boltzmann machine is a type of neural network that can learn to reconstruct a probability distribution over its inputs by learning to stochastically reproduce a training set. It is an unsupervised learning model, which means that it does not require labeled training data to learn the structure of the input data.
+
+
+
+Boltzmann machines are composed of a set of binary units that are connected by weighted edges. The weights of the edges represent the strength of the connection between the units. The units are arranged in layers, with the input units comprising the bottom layer and the output units comprising the top layer.
+
+
+
+The learning process in a Boltzmann machine involves adjusting the weights of the edges between the units based on the probability of the units being activated given the input data. This process is known as learning by contrastive divergence.
+
+
+
+Boltzmann machines have been used for a variety of tasks, including image recognition, natural language processing, and anomaly detection. They are particularly well-suited for tasks that involve modeling large, complex data sets with many variables, since they can learn to capture the underlying structure of the data through unsupervised learning.

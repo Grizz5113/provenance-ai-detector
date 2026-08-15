@@ -1,0 +1,13 @@
+"Neats and scruffies" is a term used to describe two contrasting approaches to research and theorizing in the field of artificial intelligence (AI). The term was coined by Herbert Simon and Allen Newell, two pioneering researchers in the field of AI, in a paper published in 1972.
+
+
+
+The "neats" are those who approach AI research with a focus on creating rigorous, formal models and methods that can be precisely defined and analyzed. This approach is characterized by a focus on logical rigor and the use of mathematical techniques to analyze and solve problems.
+
+
+
+The "scruffies," on the other hand, are those who take a more practical, experimental approach to AI research. This approach is characterized by a focus on creating working systems and technologies that can be used to solve real-world problems, even if they are not as formally defined or rigorously analyzed as the "neats."
+
+
+
+The distinction between "neats" and "scruffies" is not a hard and fast one, and many researchers in the field of AI may have elements of both approaches in their work. The distinction is often used to describe the different approaches that researchers take to tackling problems in the field, and is not intended to be a value judgment on the relative merits of either approach.

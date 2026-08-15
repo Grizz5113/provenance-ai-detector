@@ -1,0 +1,15 @@
+{
+  "essay_id": "hybrid_009_moderate",
+  "label": "hybrid",
+  "source_human_essay": "human_009",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 2001,
+  "operation": "moderate_ai_edit",
+  "ai_intervention_level": "moderate",
+  "generated_at": "2026-08-13T18:22:05.845741+00:00",
+  "original_word_count": 363,
+  "hybrid_word_count": 299,
+  "edit_ratio": 0.9003021148036254,
+  "prompt": "You are moderately editing a student's college-style essay.\n\nPreserve the student's:\n- meaning\n- personal experiences\n- opinions\n- facts\n- first-person perspective\n\nRewrite some sentences to improve:\n- grammar\n- clarity\n- sentence flow\n- word choice\n- conciseness\n\nPreserve the overall story, facts, and paragraph structure.\nDo NOT invent experiences or facts.\nDo NOT completely rewrite the essay.\n\nA substantial portion of the original wording should remain.\n\nReturn ONLY the edited essay.\nDo not add a title or commentary.\n\nORIGINAL ESSAY:\n\n"
+}

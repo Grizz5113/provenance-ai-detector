@@ -1,0 +1,5 @@
+Solar panels work by using energy from the sun to create electricity. They do this by using materials that allow them to absorb sunlight and convert it into electricity.
+
+Here's how it works: The sunlight hits the solar panels and is absorbed by the materials inside. These materials allow the energy from the sunlight to knock electrons loose, which creates a flow of electricity. This flow of electricity is then sent to an inverter, which converts the electricity into a form that can be used to power your home or business.
+
+So, to sum it up, solar panels use the energy from the sun to create electricity, which can then be used to power your electronic devices.

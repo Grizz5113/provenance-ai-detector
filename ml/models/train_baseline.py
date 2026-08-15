@@ -24,6 +24,7 @@ META_COLUMNS = {
     "topic",
     "source",
     "source_group",
+    "ai_intervention_level",
     "edit_ratio",
 }
 

@@ -1,0 +1,41 @@
+essay_id,persuade_id,label,topic,source,source_group,ai_intervention_level,word_count,notes
+persuade_train_human_001,D2A7CA1EEFC5,human,Facial action coding system,PERSUADE_2.0,persuade_new_D2A7CA1EEFC5,none,359,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_002,70D5347F02B0,human,Cell phones at school,PERSUADE_2.0,persuade_new_70D5347F02B0,none,198,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_003,7CCF17D975F4,human,Does the electoral college work?,PERSUADE_2.0,persuade_new_7CCF17D975F4,none,479,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_004,07CC30055043,human,Cell phones at school,PERSUADE_2.0,persuade_new_07CC30055043,none,237,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_005,9D2D6842C1B3,human,Grades for extracurricular activities,PERSUADE_2.0,persuade_new_9D2D6842C1B3,none,199,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_006,38EE63B226BA,human,Cell phones at school,PERSUADE_2.0,persuade_new_38EE63B226BA,none,181,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_007,EEAC91E3A3E5,human,Cell phones at school,PERSUADE_2.0,persuade_new_EEAC91E3A3E5,none,393,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_008,A9E9593131B3,human,Does the electoral college work?,PERSUADE_2.0,persuade_new_A9E9593131B3,none,258,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_009,09035E72A3AE,human,Grades for extracurricular activities,PERSUADE_2.0,persuade_new_09035E72A3AE,none,201,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_010,5EB9ECE0BE68,human,Seeking multiple opinions,PERSUADE_2.0,persuade_new_5EB9ECE0BE68,none,348,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_011,9248E0BEFDD2,human,Driverless cars,PERSUADE_2.0,persuade_new_9248E0BEFDD2,none,235,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_012,EC1DD5C739B9,human,Exploring Venus,PERSUADE_2.0,persuade_new_EC1DD5C739B9,none,211,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_013,C862AF5812E2,human,Seeking multiple opinions,PERSUADE_2.0,persuade_new_C862AF5812E2,none,272,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_014,2B03097B591C,human,"""A Cowboy Who Rode the Waves""",PERSUADE_2.0,persuade_new_2B03097B591C,none,207,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_015,0B6B5E779566,human,Community service,PERSUADE_2.0,persuade_new_0B6B5E779566,none,484,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_016,688E61008A5D,human,Exploring Venus,PERSUADE_2.0,persuade_new_688E61008A5D,none,248,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_017,5CB2FF0429F3,human,Does the electoral college work?,PERSUADE_2.0,persuade_new_5CB2FF0429F3,none,172,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_018,866DBF36BC7C,human,Facial action coding system,PERSUADE_2.0,persuade_new_866DBF36BC7C,none,484,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_019,C61B895C4CD9,human,"""A Cowboy Who Rode the Waves""",PERSUADE_2.0,persuade_new_C61B895C4CD9,none,411,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_020,B8C06B8720EA,human,Exploring Venus,PERSUADE_2.0,persuade_new_B8C06B8720EA,none,374,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_021,9DEE651A7219,human,Mandatory extracurricular activities,PERSUADE_2.0,persuade_new_9DEE651A7219,none,315,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_022,BE0CFB4B3712,human,"""A Cowboy Who Rode the Waves""",PERSUADE_2.0,persuade_new_BE0CFB4B3712,none,252,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_023,5FC8F4A12ED4,human,Does the electoral college work?,PERSUADE_2.0,persuade_new_5FC8F4A12ED4,none,226,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_024,3206079FDA69,human,Grades for extracurricular activities,PERSUADE_2.0,persuade_new_3206079FDA69,none,411,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_025,86887AB8BE18,human,Distance learning,PERSUADE_2.0,persuade_new_86887AB8BE18,none,171,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_026,3B563576DE31,human,The Face on Mars,PERSUADE_2.0,persuade_new_3B563576DE31,none,447,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_027,0DB1509D2CDB,human,Summer projects,PERSUADE_2.0,persuade_new_0DB1509D2CDB,none,224,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_028,CCD30CE1E903,human,Exploring Venus,PERSUADE_2.0,persuade_new_CCD30CE1E903,none,434,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_029,167F809A194B,human,"""A Cowboy Who Rode the Waves""",PERSUADE_2.0,persuade_new_167F809A194B,none,211,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_030,7742D58270C9,human,Phones and driving,PERSUADE_2.0,persuade_new_7742D58270C9,none,406,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_031,7EEE11CF0775,human,Community service,PERSUADE_2.0,persuade_new_7EEE11CF0775,none,282,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_032,9E2CFCC604DA,human,Community service,PERSUADE_2.0,persuade_new_9E2CFCC604DA,none,301,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_033,E55967D94E2C,human,Community service,PERSUADE_2.0,persuade_new_E55967D94E2C,none,334,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_034,68FB76B3413E,human,Car-free cities,PERSUADE_2.0,persuade_new_68FB76B3413E,none,171,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_035,D7148D8FC7F7,human,Mandatory extracurricular activities,PERSUADE_2.0,persuade_new_D7148D8FC7F7,none,386,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_036,2B7C977B8420,human,Facial action coding system,PERSUADE_2.0,persuade_new_2B7C977B8420,none,298,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_037,6F9101D079EC,human,Distance learning,PERSUADE_2.0,persuade_new_6F9101D079EC,none,379,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_038,B9EEE56F7338,human,Car-free cities,PERSUADE_2.0,persuade_new_B9EEE56F7338,none,387,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_039,F666D2588232,human,Distance learning,PERSUADE_2.0,persuade_new_F666D2588232,none,265,Independent human essay selected from PERSUADE 2.0
+persuade_train_human_040,8CE968DB99AB,human,Grades for extracurricular activities,PERSUADE_2.0,persuade_new_8CE968DB99AB,none,150,Independent human essay selected from PERSUADE 2.0

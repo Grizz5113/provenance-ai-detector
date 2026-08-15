@@ -1,0 +1,15 @@
+{
+  "essay_id": "persuade_train_hybrid_024_light",
+  "label": "hybrid",
+  "source_human_essay": "persuade_train_human_024",
+  "model": "gemma3:4b",
+  "temperature": 0.3,
+  "seed": 3024,
+  "operation": "light_ai_edit",
+  "ai_intervention_level": "light",
+  "generated_at": "2026-08-15T11:04:26.782998+00:00",
+  "original_word_count": 407,
+  "hybrid_word_count": 386,
+  "edit_ratio": 0.2963430012610341,
+  "prompt": "You are lightly proofreading a student's college-style essay.\n\nPreserve the student's:\n- meaning\n- personal experiences\n- opinions\n- facts\n- first-person voice\n- paragraph structure\n\nMake only small changes:\n- fix grammar\n- improve awkward phrasing\n- make a few word-choice improvements\n- remove obvious repetition\n\nKeep most of the original wording unchanged.\nDo NOT invent facts or experiences.\nDo NOT substantially rewrite the essay.\n\nReturn ONLY the edited essay.\nDo not add a title or commentary.\n\nORIGINAL ESSAY:\n\n"
+}

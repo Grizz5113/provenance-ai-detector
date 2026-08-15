@@ -94,54 +94,54 @@ def main() -> None:
             continue
 
         row = {
-            "essay_id": essay_id,
-            "label": "hybrid",
-            "source": "synthetic_local_llm",
-            "topic": source_metadata.get("topic", ""),
-            "generation_model": provenance.get(
-                "model",
+    "essay_id": essay_id,
+    "label": "hybrid",
+    "source": "synthetic_local_llm",
+    "topic": source_metadata.get("topic", ""),
+    "generation_model": provenance.get(
+        "model",
+        "",
+    ),
+    "generation_prompt": provenance.get(
+        "prompt",
+        "",
+    ),
+    "human_editing": "ai_polished",
+    "ai_intervention_level": provenance.get(
+        "ai_intervention_level",
+        "unknown",
+    ),
+    "source_group": source_metadata.get(
+        "source_group",
+        source_human_id,
+    ),
+    "split": "",
+    "author_language_background": "",
+    "notes": json.dumps(
+        {
+            "operation": provenance.get(
+                "operation",
                 "",
             ),
-            "generation_prompt": provenance.get(
-                "prompt",
-                "",
+            "temperature": provenance.get(
+                "temperature",
             ),
-            "human_editing": "ai_polished",
-            "ai_intervention_level": provenance.get(
-                "ai_intervention_level",
-                "unknown",
+            "seed": provenance.get(
+                "seed",
             ),
-            "source_group": provenance.get(
-                "source_human_essay",
-                "",
+            "original_word_count": provenance.get(
+                "original_word_count",
             ),
-            "split": "",
-            "author_language_background": "",
-            "notes": json.dumps(
-                {
-                    "operation": provenance.get(
-                        "operation",
-                        "",
-                    ),
-                    "temperature": provenance.get(
-                        "temperature",
-                    ),
-                    "seed": provenance.get(
-                        "seed",
-                    ),
-                    "original_word_count": provenance.get(
-                        "original_word_count",
-                    ),
-                    "hybrid_word_count": provenance.get(
-                        "hybrid_word_count",
-                    ),
-                    "edit_ratio": provenance.get(
-                        "edit_ratio",
-                    ),
-                },
-                ensure_ascii=False,
+            "hybrid_word_count": provenance.get(
+                "hybrid_word_count",
             ),
-        }
+            "edit_ratio": provenance.get(
+                "edit_ratio",
+            ),
+        },
+        ensure_ascii=False,
+    ),
+}
 
         rows.append(row)
         existing_ids.add(essay_id)

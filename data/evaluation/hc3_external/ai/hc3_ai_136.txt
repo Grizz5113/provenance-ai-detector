@@ -1,0 +1,19 @@
+Predictive analytics is a type of data analysis that involves using historical data and machine learning algorithms to make predictions about future events or outcomes. It involves building statistical models that can identify patterns and relationships in data, and using those models to predict what will happen in the future. Predictive analytics can be used in a variety of industries, including finance, healthcare, marketing, and manufacturing, to make informed decisions and optimize business processes.
+
+
+
+Some common applications of predictive analytics include:
+
+
+
+Forecasting demand for a product or service
+
+Identifying potential customer churn
+
+Predicting equipment failures
+
+Detecting fraudulent activity
+
+Estimating the likelihood of an event occurring
+
+To build predictive models, data scientists typically use tools such as machine learning algorithms, statistical analysis software, and data visualization tools. They may also use techniques such as regression analysis, decision trees, and clustering to analyze and interpret the data.

@@ -1,0 +1,13 @@
+White-box testing is a method of testing software in which the tester has complete knowledge of the internal workings and structure of the system being tested. It is often contrasted with black-box testing, in which the tester has no knowledge of the internal structure of the system and only has access to the input and output of the system.
+
+
+
+White-box testing is typically used to test specific parts of the software or to verify that certain internal processes are working correctly. It is often used in combination with black-box testing to provide a comprehensive testing strategy.
+
+
+
+To perform white-box testing, the tester needs to have a detailed understanding of the code being tested and the algorithms and processes it uses. The tester will create test cases that exercise different parts of the code and verify that the output is correct. This can include testing specific paths through the code, testing edge cases, and testing error handling.
+
+
+
+Some of the benefits of white-box testing include the ability to thoroughly test the internal processes of the software, the ability to find hidden or hard-to-detect defects, and the ability to test the code at a very low level. However, it can be time-consuming and may require specialized knowledge or tools.

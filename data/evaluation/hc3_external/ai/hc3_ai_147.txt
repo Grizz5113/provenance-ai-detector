@@ -1,0 +1,9 @@
+Knowledge extraction is the process of identifying and extracting useful and relevant information from a variety of sources, such as text, databases, and other digital media. This information is then organized and presented in a structured format, such as a database or a knowledge base, for further use.
+
+
+
+There are many different techniques and approaches that can be used for knowledge extraction, depending on the specific goals and needs of the task at hand. Some common techniques include natural language processing, information retrieval, machine learning, and data mining.
+
+
+
+The ultimate goal of knowledge extraction is to make it easier for people to access and use information, and to enable the creation of new knowledge through the analysis and synthesis of existing information. It has a wide range of applications, including information retrieval, natural language processing, and machine learning.

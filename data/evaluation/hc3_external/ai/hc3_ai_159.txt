@@ -1,0 +1,13 @@
+A Restricted Boltzmann Machine (RBM) is a type of neural network that can learn a probability distribution over a set of inputs. RBMs are generative models, meaning that they can generate new data samples that are similar to a training set. They are particularly useful for dimensionality reduction, feature learning, and collaborative filtering.
+
+
+
+An RBM consists of visible units, which represent the input data, and hidden units, which capture the underlying structure of the data. The connections between the visible and hidden units are called weights, and there are no connections between the hidden units or between the visible units. The hidden units are used to extract features from the input data, and the visible units are used to reconstruct the input data from these features.
+
+
+
+RBMs can be trained using an algorithm called contrastive divergence, which involves making small updates to the weights of the network based on the difference between the input data and the reconstructed data. The goal of training is to minimize this difference, so that the RBM can accurately reconstruct the input data.
+
+
+
+RBMs have been used in a variety of applications, including image recognition, natural language processing, and recommendation systems. They have also been used as building blocks for more complex deep learning models, such as Deep Belief Networks (DBNs) and Convolutional Neural Networks (CNNs).

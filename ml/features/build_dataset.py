@@ -1,5 +1,5 @@
 from __future__ import annotations
-
+import argparse
 import csv
 import json
 import sys
@@ -14,19 +14,20 @@ from backend.app.detector.language_model import LanguageModelAnalyzer
 from backend.app.features.extractor import EssayFeatureExtractor
 
 
-RAW_DIR = PROJECT_ROOT / "data" / "raw"
-METADATA_FILE = RAW_DIR / "metadata.csv"
+DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 
 OUTPUT_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUT_FILE = OUTPUT_DIR / "features.csv"
 
+def load_metadata(
+    metadata_file: Path,
+) -> dict[str, dict[str, str]]:
 
-def load_metadata() -> dict[str, dict[str, str]]:
-    with METADATA_FILE.open(
+    with metadata_file.open(
         "r",
         encoding="utf-8",
         newline="",
     ) as f:
+
         reader = csv.DictReader(f)
 
         return {
@@ -36,26 +37,69 @@ def load_metadata() -> dict[str, dict[str, str]]:
         }
 
 
-def find_essay_file(essay_id: str) -> Path | None:
-    for label in ("human", "ai", "hybrid"):
-        path = RAW_DIR / label / f"{essay_id}.txt"
+def find_essay_file(
+    data_dir: Path,
+    essay_id: str,
+) -> Path | None:
+
+    for label in (
+        "human",
+        "ai",
+        "hybrid",
+    ):
+
+        path = (
+            data_dir
+            / label
+            / f"{essay_id}.txt"
+        )
 
         if path.exists():
             return path
 
     return None
 
-
 def main() -> None:
     print("=" * 70)
     print("PROVENANCE — BUILD FEATURE DATASET")
     print("=" * 70)
 
-    metadata = load_metadata()
+    parser = argparse.ArgumentParser()
 
-    print(f"Metadata records: {len(metadata)}")
+    parser.add_argument(
+        "--data-dir",
+        type=Path,
+        default=DEFAULT_DATA_DIR,
+        help="Dataset directory containing metadata.csv and label folders.",
+    )
 
-    OUTPUT_DIR.mkdir(
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=OUTPUT_DIR / "features.csv",
+        help="Output feature CSV.",
+    )
+
+    args = parser.parse_args()
+
+    data_dir = args.data_dir
+    metadata_file = data_dir / "metadata.csv"
+    output_file = args.output
+
+    if not metadata_file.exists():
+        raise RuntimeError(
+            f"Metadata file not found: {metadata_file}"
+        )
+
+    metadata = load_metadata(
+        metadata_file
+    )
+
+    print(
+        f"Metadata records: {len(metadata)}"
+    )
+
+    output_file.parent.mkdir(
         parents=True,
         exist_ok=True,
     )
@@ -75,7 +119,10 @@ def main() -> None:
         sorted(metadata.items()),
         start=1,
     ):
-        essay_file = find_essay_file(essay_id)
+        essay_file = find_essay_file(
+            data_dir,
+            essay_id,
+        )
 
         if essay_file is None:
             print(
@@ -104,10 +151,14 @@ def main() -> None:
                 "source_group",
                 "",
             ),
+            "ai_intervention_level": meta.get(
+                "ai_intervention_level",
+                "",
+            ),
             **features.to_dict(),
         }
 
-        # Preserve hybrid provenance information
+        # Preserve hybrid provenance information.
         if meta.get("label") == "hybrid":
             notes = meta.get("notes", "")
 
@@ -131,7 +182,7 @@ def main() -> None:
 
     fieldnames = list(feature_rows[0].keys())
 
-    with OUTPUT_FILE.open(
+    with output_file.open(
         "w",
         encoding="utf-8",
         newline="",
@@ -153,7 +204,7 @@ def main() -> None:
         f"Feature columns:      {len(fieldnames)}"
     )
     print(
-        f"Saved to:             {OUTPUT_FILE}"
+        f"Saved to:             {output_file}"
     )
     print("=" * 70)
 

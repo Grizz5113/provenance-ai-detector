@@ -1,0 +1,13 @@
+Symbolic computation, also known as symbolic algebra or algebraic manipulation, is a branch of mathematics in which algebraic expressions and equations are manipulated and simplified using symbolic techniques. This approach to computation is based on the use of symbols, rather than numerical values, to represent mathematical quantities and operations.
+
+
+
+Symbolic computation can be used to solve a wide variety of problems in mathematics, including algebraic equations, differential equations, and integral equations. It can also be used to perform operations on polynomials, matrices, and other types of mathematical objects.
+
+
+
+One of the main advantages of symbolic computation is that it can often provide more insight into the structure of a problem and the relationships between different quantities than numerical techniques can. This can be particularly useful in areas of mathematics that involve complex or abstract concepts, where it can be difficult to understand the underlying structure of the problem using numerical techniques alone.
+
+
+
+There are a number of software programs and programming languages that are specifically designed for symbolic computation, such as Mathematica, Maple, and Maxima. These tools allow users to input algebraic expressions and equations and manipulate them symbolically to find solutions or simplify them.
