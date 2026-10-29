@@ -2,9 +2,9 @@
 
 A machine-learning based text provenance detection system that analyzes written text and classifies it into three provenance categories:
 
-- **Human** — primarily human-written text
-- **AI** — primarily AI-generated text
-- **Hybrid** — human-written text that has been modified or polished using AI
+- **Human** - primarily human-written text
+- **AI** - primarily AI-generated text
+- **Hybrid** - human-written text that has been modified or polished using AI
 
 The system combines statistical, linguistic, repetition, punctuation, sentence-structure, and language-model features with a Random Forest classifier.
 
